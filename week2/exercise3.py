@@ -9,7 +9,7 @@ def is_odd(a_number):
 
     Look into modulo division using the '%' operator as one way of doing this.
     """
-    pass
+    return a_number % 2 == 1
 
 
 def fix_it(moves=True, should_move=True):
@@ -23,7 +23,12 @@ def fix_it(moves=True, should_move=True):
     "Duct Tape"
     "No Problem"
     """
-    pass
+    if moves == should_move:
+        return "No Problem"
+    elif moves:
+        return "Duct Tape"
+    else:
+        return "WD-40"
 
 
 def loops_1a():
@@ -33,7 +38,10 @@ def loops_1a():
     return a list of 10 items, each one a string with exacly one star in it.
     E.g.: ['*', '*', '*', '*', '*', '*', '*', '*', '*', '*']
     """
-    pass
+    starList = []
+    for x in range(10):
+        starList.append("*")
+    return starList
 
 
 def star_map():
@@ -44,10 +52,10 @@ def star_map():
     if it's even. Reuse the is odd function that you've already written.
     E.g.: ["!", "*", "!", "*", "!", "*", "!", "*", "!", "*"]
     """
-    pass
+    return map(lambda x: ["!", "*"][is_odd(x)], range(10))
 
 
-def loops_1c(number_of_items=5, symbol="#"):
+def loops_1c(number_of_items, symbol):
     """Respond to variables.
 
     using any method
@@ -55,7 +63,7 @@ def loops_1c(number_of_items=5, symbol="#"):
     a string with exacly one symbol in it.
     E.g.: ['#', '#', '#', '#', '#']
     """
-    pass
+    return map(lambda x: symbol, range(number_of_items))
 
 
 def loops_2():
@@ -76,7 +84,7 @@ def loops_2():
             ['*', '*', '*', '*', '*', '*', '*', '*', '*', '*'],
           ]
     """
-    pass
+    return map(lambda x: map(lambda y: '*', range(10)), range(10))
 
 
 def loops_3():
@@ -100,7 +108,10 @@ def loops_3():
     TIP: notice that this needs to to return strings of numbers,
          so call str(number) to cast.
     """
-    pass
+    numberList = []
+    for y in map(lambda x: str(x), range(10)):
+        numberList.append(map(lambda z: y, range(10)))
+    return numberList
 
 
 def loops_4():
@@ -118,7 +129,7 @@ def loops_4():
       ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     ]
     """
-    pass
+    return map(lambda y: map(lambda x: str(x), range(10)), range(10))
 
 
 def loops_5():
@@ -143,7 +154,13 @@ def loops_5():
         "There are {} green bottles".format(8)
     you'll come to see the pros and cons of each over time.
     """
-    pass
+    coordList = []
+    for i in range(10):
+        tempLine = []
+        for j in range(5):
+            tempLine.append('(i{}, j{})'.format(i, j))
+        coordList.append(tempLine)
+    return coordList
 
 
 def loops_6():
@@ -166,7 +183,13 @@ def loops_6():
     You can use a variable.
     TIP: look out for the starting condition.
     """
-    pass
+    wedgeList = []
+    for x in range(10):
+        tempLine = []
+        for y in range(x+1):
+            tempLine.append(str(y))
+        wedgeList.append(tempLine)
+    return wedgeList
 
 
 def loops_7():
@@ -190,7 +213,17 @@ def loops_7():
     This is a hard problem. Use lots of experimentation and draw
     lots of diagrams!
     """
-    pass
+    pyramidList = []
+    height = 5
+    for y in range(height):
+        tempLine = []
+        for x in range(height*2-1):
+            if x >= height - 1 - y and x <= height + y - 1:
+                tempLine.append('*')
+            else:
+                tempLine.append(' ')
+        pyramidList.append(tempLine)
+    return pyramidList
 
 
 def lp(some_kind_of_list, exercise_name):

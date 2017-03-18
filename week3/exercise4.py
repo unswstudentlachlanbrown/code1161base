@@ -2,11 +2,10 @@
 """Week 3, Exercise 4."""
 from __future__ import division
 from __future__ import print_function
-import math
 # import time
 
 
-def binary_search(low, high, actual_number):
+def binary_search(low, high, actual_number, counter=0):
     """Do a binary search.
 
     This is going to be your first 'algorithm' in the usual sense of the word!
@@ -27,7 +26,13 @@ def binary_search(low, high, actual_number):
       (You should remove them from the file, not comment them out, the
       tests aren't that smart yet.)
     """
-    pass
+    # print(str(counter), str(low), str(high))
+    if int((low + high)/2) == actual_number:
+        return {"guess": actual_number, "tries": counter}
+    elif int((low + high)/2) > actual_number:
+        return binary_search(low, (low+high)/2, actual_number, counter+1)
+    else:
+        return binary_search((low+high)/2, high, actual_number, counter+1)
 
 
 if __name__ == "__main__":

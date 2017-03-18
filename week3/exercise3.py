@@ -4,8 +4,6 @@ Steps on the way to making your own guessing game.
 """
 from __future__ import division
 from __future__ import print_function
-from exercise1 import not_number_rejector
-from exercise1 import super_asker
 import random
 
 
@@ -28,23 +26,68 @@ def advancedGuessingGame():
     Remember to think modular. Try to keep your functions small and single
     purpose if you can!
     """
-    print("\nWelcome to the new and revised guessing game!\n")
-    print("Time to set the lower and upper bounds.\n")
-    lowerBound = raw_input("Enter a lower bound: ")
-    upperBound = raw_input("Enter an upper bound: ")
-    print("Cool, a number between {} and {}.".format(lowerBound, upperBound))
-    upperBound = int(upperBound)
 
-    actualNumber = random.randint(0, upperBound)
+    def numberAsker(message, lowerBound=0.5):
+        """Asks for a number, ensuring it is.
+
+        message is a string that will be used to ask for the number.
+
+        lowerBound is a number the input must be above. It will always be an
+        int except for in the case where it isn't entered.
+        """
+        answered = False
+        while answered is False:
+            answered = True
+            inputVar = raw_input(message)
+            try:
+                inputVar = int(inputVar)
+            except:
+                try:
+                    inputVar = float(inputVar)
+                except:
+                    answered = False
+                    print('Please enter a number!')
+            if answered and lowerBound != 0.5 and int(inputVar) <= lowerBound:
+                answered = False
+                print('Please enter a number larger than the lower bound!')
+        return inputVar
+
+    print("\nWelcome to the new and revised guessing game!\n")
+    print("Time to set the lower and upper bounds. Please enter integers.\n")
+    lowerBound = numberAsker("Enter a lower bound: ")
+    upperBound = numberAsker("Enter an upper bound: ", int(lowerBound))
+    if type(lowerBound) == int and type(upperBound) == int:
+        print('Great! two integers - specifically', end=' ')
+    else:
+        print("Hmmm, looks like you didn't put in two integers.")
+        if type(lowerBound) == type(upperBound):
+            print("I've changed them to integers, so now it's", end=' ')
+        elif type(lowerBound) == 'float':
+            print("I've changed your lower bound", end=' ')
+            print("to an integer so now it's", end=' ')
+        else:
+            print("I've changed your upper bound", end=' ')
+            print("to an integer so now it's", end=' ')
+    lowerBound = int(lowerBound)
+    upperBound = int(upperBound)
+    print("a number between {} and {}.".format(lowerBound, upperBound))
+
+    actualNumber = random.randint(lowerBound, upperBound)
 
     guessed = False
 
     while not guessed:
-        guessedNumber = int(raw_input("guess a number: "))
-        print("you guessed {},".format(guessedNumber),)
+        guessedNumber = numberAsker("Guess a number:")
+        print("You guessed {},".format(guessedNumber),)
         if guessedNumber == actualNumber:
             print("you got it!! It was {}".format(actualNumber))
             guessed = True
+        elif guessedNumber > upperBound or guessedNumber < lowerBound:
+            print('You must have the IQ of a common houseplant. Try ', end='')
+            print('something INSIDE the bounds.')
+        elif type(guessedNumber) == 'float':
+            print("You are more useless than Anne Frank's drum set. ", end='')
+            print(" Try an integer next time.")
         elif guessedNumber < actualNumber:
             print("too small, try again ")
         else:

@@ -78,7 +78,7 @@ def stubborn_asker(low, high):
     return num
 
 
-def not_number_rejector():
+def not_number_rejector(message):
     """Ask for a number repeatedly until actually given one.
 
     Ask for a number, and if the response is actually NOT a number (e.g. "cow",
@@ -88,7 +88,7 @@ def not_number_rejector():
     answered = False
     while answered is False:
         answered = True
-        inputVar = raw_input("Enter a number: ")
+        inputVar = raw_input(message)
         try:
             inputVar = int(inputVar)
             break

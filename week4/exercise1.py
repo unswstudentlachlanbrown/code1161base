@@ -28,7 +28,17 @@ def success_is_relative():
     # this depends on excecution context. Take a look at your CWD and remember
     # that it changes.
     # print(path, CWD)
-    pass
+    msg = str(open("./week1/pySuccessMessage.json", 'r').read()).strip('/n')
+    message = ''
+    index = 0
+    while True:
+        if msg[index] == '}':
+            message += msg[index]
+            break
+        else:
+            message += msg[index]
+        index += 1
+    return message
 
 
 def get_some_details():
@@ -48,11 +58,11 @@ def get_some_details():
          dictionaries.
     """
     json_data = open(LOCAL + "/lazyduck.json").read()
-
-    data = json.loads(json_data)
-    return {"lastName":       None,
-            "password":       None,
-            "postcodePlusID": None
+    data = json.loads(json_data)["results"][0]
+    pstcodeIDSum = int(data["location"]["postcode"]) + int(data["id"]["value"])
+    return {"lastName":       data["name"]["last"],
+            "password":       data["login"]["password"],
+            "postcodePlusID": pstcodeIDSum
             }
 
 
@@ -88,7 +98,16 @@ def wordy_pyramid():
     ]
     TIP: to add an argument to a URL, use: ?argName=argVal e.g. ?len=
     """
-    pass
+    pyramid1 = []
+    pyramid2 = []
+    url = "http://www.setgetgo.com/randomword/get.php?len="
+    for length in range(3, 21):
+        if length % 2 == 1:
+            pyramid1.append(requests.get(url+str(length)).text)
+        else:
+            pyramid2 = [requests.get(url+str(length)).text] + pyramid2
+
+    return pyramid1 + pyramid2
 
 
 def wunderground():
@@ -102,8 +121,8 @@ def wunderground():
          get very long. If you are accessing a thing often, assign it to a
          variable and then future access will be easier.
     """
-    base = "http://api.wunderground.com/api/"
-    api_key = "YOUR KEY - REGISTER TO GET ONE"
+    base = "http://api.wunderground.com/api"
+    api_key = "2a7730bdd6f6ff60"
     country = "AU"
     city = "Sydney"
     template = "{base}/{key}/conditions/q/{country}/{city}.json"
@@ -112,10 +131,12 @@ def wunderground():
     the_json = json.loads(r.text)
     obs = the_json['current_observation']
 
-    return {"state":           None,
-            "latitude":        None,
-            "longitude":       None,
-            "local_tz_offset": None}
+    dict1 = {"state":           obs["display_location"]["state"],
+             "latitude":        obs["display_location"]["latitude"],
+             "longitude":       obs["display_location"]["longitude"],
+             "local_tz_offset": obs["local_tz_offset"]}
+    print(str(dict1))
+    return dict1
 
 
 def diarist():
@@ -131,7 +152,22 @@ def diarist():
     TIP: remember to commit 'lasers.pew' and push it to your repo, otherwise
          the test will have nothing to look at.
     """
-    pass
+    gcode = str(open("./week4/Trispokedovetiles(laser).gcode", 'r').read())
+    charCount = 0
+    onOffCounter = 0
+    while charCount < len(gcode):
+        if gcode[charCount:charCount+6] == "M10 P1":
+            onOffCounter += 1
+        charCount += 1
+        # print(str(charCount), str(onOffCounter))
+        # print(str(gcode[charCount:charCount+6]))
+    try:
+        os.remove("./week4/lasers.pew")
+        print('File removed!')
+    except:
+        print("Hmmm didn't work... Maybe the file didn't already exist?")
+    lasersFile = open("./week4/lasers.pew", 'w+')
+    lasersFile.write(str(onOffCounter))
 
 
 if __name__ == "__main__":

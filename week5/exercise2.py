@@ -91,22 +91,27 @@ def abba(source="abba", guard=3):
     aobaobbbabbaoaaobbbaoaaobaobaobbba
                 and so on...
     """
-    def apply_rules(letter):
+    def mapToString(listOfLetters, guard):
+        """Simplify apply_rules() code."""
+        return ''.join(map(lambda x: apply_rules(x, guard-1), listOfLetters))
+
+    def apply_rules(letter, guard):
         """Control the substitution.
 
         You need to change these substitutions to make it work.
         """
-        if letter == "a":
-            return "a"
+        if guard == -1:
+            return letter
+        elif letter == "a":
+            return mapToString(['b', 'b', 'a'], guard)
         elif letter == "b":
-            return "b"
+            return mapToString(['a', 'o', 'b'], guard)
         elif letter == "o":
-            return "o"
+            return mapToString(['o', 'a'], guard)
         else:
             return letter
 
-    # write the rest of the function here
-    pass
+    return str(''.join(map(lambda x: apply_rules(x, guard-1), list(source))))
 
 
 def koch(t, order, size):
@@ -170,6 +175,9 @@ if __name__ == '__main__':
     print(draw_koch(drawing_method=square_koch, steps_deep=3))
     print(draw_koch(drawing_method=square_koch, steps_deep=4))
     print(draw_koch(drawing_method=koch, steps_deep=2))
-    print("AB:", abba())
+    print("yoyo -", abba())
+    print("AB:" + abba(source='baaab' + "!"))
+    print("AB:" + abba(source='b' + "!"))
+    print("AB:" + abba(source='roof' + "!"))
     print("ID:", str(italian_dinner()))
     pass

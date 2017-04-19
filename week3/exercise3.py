@@ -19,19 +19,16 @@ def advancedGuessingGame():
     * chastise them if they pick a number outside the bounds.
     * see if you can find the other failure modes.
       There are three that I can think of. (They are tested for.)
-
     NOTE: whilst you CAN write this from scratch, and it'd be good for you to
     be able to eventually, it'd be better to take the code from exercise 2 and
     marge it with code from excercise 1.
     Remember to think modular. Try to keep your functions small and single
     purpose if you can!
     """
-
     def numberAsker(message, lowerBound=0.5):
-        """Asks for a number, ensuring it is.
+        """Ask for a number, ensuring it is.
 
         message is a string that will be used to ask for the number.
-
         lowerBound is a number the input must be above. It will always be an
         int except for in the case where it isn't entered.
         """
@@ -41,10 +38,10 @@ def advancedGuessingGame():
             inputVar = raw_input(message)
             try:
                 inputVar = int(inputVar)
-            except:
+            except Exception:
                 try:
                     inputVar = float(inputVar)
-                except:
+                except Exception:
                     answered = False
                     print('Please enter a number!')
             if answered and lowerBound != 0.5 and int(inputVar) <= lowerBound:

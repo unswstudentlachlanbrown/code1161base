@@ -164,7 +164,7 @@ def diarist():
     try:
         os.remove("./week4/lasers.pew")
         print('File removed!')
-    except:
+    except Exception:
         print("Hmmm didn't work... Maybe the file didn't already exist?")
     lasersFile = open("./week4/lasers.pew", 'w+')
     lasersFile.write(str(onOffCounter))

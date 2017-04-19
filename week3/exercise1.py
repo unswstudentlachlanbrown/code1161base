@@ -92,10 +92,10 @@ def not_number_rejector(message):
         try:
             inputVar = int(inputVar)
             break
-        except:
+        except Exception:
             try:
                 inputVar = float(inputVar)
-            except:
+            except Exception:
                 answered = False
     return inputVar
 
@@ -113,10 +113,10 @@ def super_asker(low, high):
         try:
             num = int(num)
             break
-        except:
+        except Exception:
             try:
                 num = float(num)
-            except:
+            except Exception:
                 answered = False
         if answered and int(num) > low and int(num) < high:
             break

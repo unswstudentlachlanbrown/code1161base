@@ -177,10 +177,10 @@ def fast_filler(number_of_words=200):
     """
     import json
     import random
-    wordsDictionary = make_filler_text_dictionary()
     try:
         open("dict_racey.words", 'r')
     except Exception:
+        wordsDictionary = make_filler_text_dictionary()
         fileForWords = open("dict_racey.words", 'w+')
         json.dump(wordsDictionary, fileForWords)
         fileForWords.close()

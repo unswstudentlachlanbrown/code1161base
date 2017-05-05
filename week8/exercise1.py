@@ -18,7 +18,9 @@ def greet(name="Towering Timmy"):
     return a string of "Hello" and the name argument.
     E.g. if given as "Towering Timmy" it should return "Hello Towering Timmy"
     """
-    pass
+
+    my_string = hello()
+    return str(greet)
 
 
 def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
@@ -27,7 +29,10 @@ def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
     Return an integer.
     TIP: the test will use a different input_list, so don't just return 5
     """
-    pass
+
+    input_list.count(3)
+
+    """len(set(input_list))"""
 
 
 def fizz_buzz():
@@ -44,8 +49,20 @@ def fizz_buzz():
     Return a list that has an integer if the number isn't special, and a string
     if it is. E.g. [1, 2, "Fizz", 4, "Buzz", 6, 7, ...]
     """
-    fizzBuzzList = []
-    # your code here
+
+    count = 0
+    while count < 101:
+        if count % 5 == 0 and count % 3 == 0:
+            print ("FizzBuzz")
+        elif count % 5 == 0:
+            print ("Fizz")
+        elif count % 3 == 0:
+            print ("Buzz")
+        else:
+            print (count)
+
+        count = count + 1
+
     return fizzBuzzList
 
 
@@ -56,8 +73,10 @@ def put_behind_bars(input_string="very naughty boy"):
     e.g. "very naughty boy" should return "|v|e|r|y| |n|a|u|g|h|t|y| |b|o|y|"
     TIP: make sure that you have a pipe on both ends of the string.
     """
-    pass
+    my_first_list = [v, e, r, y, _, n, a, u, g, h, t, y,  _, b, o, y]
+    my_second_list = [I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I]
 
+    val for pair in list(my_first_list, my_second_list) for val in pair
 
 def pet_filter(letter="a"):
     """Return a list of animals with `letter` in their name."""

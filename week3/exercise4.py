@@ -27,7 +27,12 @@ def binary_search(low, high, actual_number):
       (You should remove them from the file, not comment them out, the
       tests aren't that smart yet.)
     """
-    pass
+
+midpoint = (low + high) / 2
+if actual_number == midpoint:
+    return {"guess": actual_number, "tries": tries}
+    elif midpoint 
+
 
 
 if __name__ == "__main__":

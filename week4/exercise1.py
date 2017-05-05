@@ -16,6 +16,7 @@ if LOCAL != CWD:
 
 
 def success_is_relative():
+
     """Read from a file.
 
     Read the success message from week 1, but from here, using a relative path.
@@ -28,6 +29,13 @@ def success_is_relative():
     # this depends on excecution context. Take a look at your CWD and remember
     # that it changes.
     # print(path, CWD)
+    file_path = "../week1/pySuccessMessage.json"
+    yasssuccess = open(file_path, mode)
+    toread = yasssuccess.read()
+    # convert from json to python dictionary
+    to_understand = json.load()
+    get_dict = toread["message"]
+    return get_dict
     pass
 
 
@@ -48,13 +56,18 @@ def get_some_details():
          dictionaries.
     """
     json_data = open(LOCAL + "/lazyduck.json").read()
-
+    my_dict["key"][2]["theyhey"][]
     data = json.loads(json_data)
     return {"lastName":       None,
             "password":       None,
             "postcodePlusID": None
             }
 
+    return (data{"results"}[0]["name"] {title})
+
+lastname =
+password =
+number =
 
 def wordy_pyramid():
     """Make a pyramid out of real words.
@@ -88,6 +101,11 @@ def wordy_pyramid():
     ]
     TIP: to add an argument to a URL, use: ?argName=argVal e.g. ?len=
     """
+
+URL = "http://www.setgetgo.com/randomword/"
+
+request(website then number word, loop)
+
     pass
 
 

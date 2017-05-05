@@ -6,6 +6,7 @@ Exercises and examples to illustrate recursion.
 from __future__ import division
 from __future__ import print_function
 import turtle
+import time
 
 
 def italian_dinner(axiom="tomatoes", guard=6):
@@ -137,11 +138,12 @@ def draw_koch(drawing_method, steps_deep=4):
     https://docs.python.org/2/library/turtle.html
     """
     raphael = turtle.Turtle()
-    raphael.speed(1000)
+    raphael.speed(1)
     raphael.penup()
     raphael.goto(-300, 0)
     raphael.pendown()
     trace = drawing_method(raphael, order=steps_deep, size=600)
+    time.sleep(10)
     return trace
 
 
@@ -182,10 +184,11 @@ def draw_pointy(steps=4):
 
 
 if __name__ == '__main__':
-    print(draw_koch(drawing_method=square_koch, steps_deep=2))
+    # print(draw_koch(drawing_method=square_koch, steps_deep=2))
     print(draw_koch(drawing_method=square_koch, steps_deep=3))
-    print(draw_koch(drawing_method=square_koch, steps_deep=4))
-    print(draw_koch(drawing_method=koch, steps_deep=2))
+    # print(draw_koch(drawing_method=square_koch, steps_deep=4))
+    # print(draw_koch(drawing_method=koch, steps_deep=2))
+    # print(draw_koch(drawing_method=koch, steps_deep=1))
     # print("yoyo -", abba())
     # print("AB:" + abba(source='baaab' + "!"))
     # print("AB:" + abba(source='b' + "!"))

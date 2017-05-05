@@ -26,7 +26,6 @@ def binary_search(low, high, actual_number, counter=0):
       (You should remove them from the file, not comment them out, the
       tests aren't that smart yet.)
     """
-    # print(str(counter), str(low), str(high))
     if int((low + high)/2) == actual_number:
         return {"guess": actual_number, "tries": counter}
     elif int((low + high)/2) > actual_number:

@@ -6,7 +6,6 @@ Exercises and examples to illustrate recursion.
 from __future__ import division
 from __future__ import print_function
 import turtle
-import time
 
 
 def italian_dinner(axiom="tomatoes", guard=6):
@@ -99,7 +98,7 @@ def abba(source="abba", guard=3):
     def apply_rules(letter, guard):
         """Control the substitution.
 
-        You need to change these substitutions to make it work.
+        Make it work.
         """
         if guard == -1:
             return letter
@@ -138,7 +137,7 @@ def draw_koch(drawing_method, steps_deep=4):
     https://docs.python.org/2/library/turtle.html
     """
     raphael = turtle.Turtle()
-    raphael.speed(1)
+    raphael.speed(300)
     raphael.penup()
     raphael.goto(-300, 0)
     raphael.pendown()

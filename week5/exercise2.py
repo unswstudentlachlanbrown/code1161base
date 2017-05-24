@@ -143,7 +143,6 @@ def draw_koch(drawing_method, steps_deep=4):
     raphael.goto(-300, 0)
     raphael.pendown()
     trace = drawing_method(raphael, order=steps_deep, size=600)
-    time.sleep(10)
     return trace
 
 

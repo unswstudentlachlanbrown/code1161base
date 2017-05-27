@@ -24,10 +24,8 @@ print(1+1, "is smaller than", 7*0.5, "is", (1+1) < (7*0.5),
 
 
 def usefulFunction():
+    """To pass the linter docstring is required."""
     print(os.getcwd())
 
 
 usefulFunction()
-
-
-print("This line is pointless, remove it@!!@@EPOGH:OIRGY$")

@@ -89,8 +89,10 @@ def removeCurrentDirectory(directory):
 def readFromCSV(directory):
     """Return a pandas dataframe from a csv file."""
     df = pd.read_csv(removeCurrentDirectory(directory))
-    df.columns("")
-    df = df[df["'IDCKWCDE51"] == df["'IDCKWCDE51"][12]]
+    df.columns("station", "date", "evapotranspiration", "rain",
+               "pan_evaporation", "max_temp", "min_temp", "max_humidity",
+               "min_humidity", "wind_speed", "solar_radiation")
+    df = df[df["station"] == df["station"][12]]
 
 
 def arrangeData(location):
@@ -99,7 +101,6 @@ def arrangeData(location):
         """Make a list of all file locations."""
         r = []
         for root, dirs, files in os.walk(loc):
-            print root
             for name in files:
                 r.append(os.path.join(root, name))
             for subfolder in dirs:

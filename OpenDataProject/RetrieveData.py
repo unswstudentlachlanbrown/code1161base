@@ -1,7 +1,9 @@
 """Retrieve data."""
 import os
+import pandas as pd
 
 location = "nsw/bega/"
+stateList = ["nsw"]
 
 
 def downloadData(location):
@@ -33,31 +35,85 @@ def recursiveFileSearch(scope):
 
 # downloadData(location)
 
-
-# def correctDirectory():
-#     """Correct Dictionary."""
-#     os.system("cd ..")
-#     cwd = os.getcwd()
-#     print(cwd)
-#     print(type(cwd))
-
-loc = os.getcwd() + "ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/"
+# dataDir = "/ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/"
+# loc = os.getcwd() + "/OpenDataProject" + dataDir
+loc = os.getcwd() + "/ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/"
 
 
-def arrangeData():
+def flattenList(initialList):
+    """Flatten a list (replaces all items in inner lists with the items)."""
+    flatList = []
+    for item in initialList:
+        if isinstance(item, list):
+            flatList.extend(flattenList(item))
+        elif isinstance(item, tuple):
+            flatList.extend(flattenList(list(item)))
+        else:
+            flatList.append(item)
+    return flatList
+
+
+def removeDuplicates(dupedList):
+    """Remove duplicates from list."""
+    count = 0
+    uniqueList = []
+
+    while count < len(dupedList):
+        currentItem = dupedList[count]
+        uniqueList.appen(currentItem)
+        dupedList.remove(currentItem)
+
+    return uniqueList
+
+
+def listFiles(loc, fileCount):
+    """Make a list of all file locations."""
+    r = []
+    for root, dirs, files in os.walk(loc):
+        print root
+        for name in files:
+            if name[-4:] == ".csv":
+                r.append(os.path.join(root, name))
+        for subfolder in dirs:
+            print "subfolda :O"
+            r.append(listFiles(os.path.join(root, subfolder), fileCount))
+    return r
+
+
+def removeCurrentDirectory(directory):
+    """Remove the cwd from a given directory."""
+    print os.getcwd()
+    return str(directory)[len(str(os.getcwd()))+1:]
+
+
+def readFromCSV(directory):
+    """Return a pandas dataframe from a csv file."""
+    df = pd.read_csv(removeCurrentDirectory(directory))
+    df.columns("")
+    df = df[df["'IDCKWCDE51"] == df["'IDCKWCDE51"][12]]
+
+
+def arrangeData(location):
     """Put all scraped data into one file."""
-    def list_files():
+    def listFiles(loc):
+        """Make a list of all file locations."""
         r = []
         for root, dirs, files in os.walk(loc):
+            print root
             for name in files:
                 r.append(os.path.join(root, name))
-                print os.path.join(root, name)
+            for subfolder in dirs:
+                r.append(listFiles(os.path.join(root, subfolder)))
         return r
-    print list_files()
+
+    directoryList = []
+
+    # Flattens and removes duplicates from the list of file directories
+    # It loops through the states to reduce RAM and CPU overloading
+    for state in stateList:
+        flatList = flattenList(listFiles(location, 0))
+        directoryList.extend(removeDuplicates(flatList))
 
 
-def list_files(directory):
-    """List Files."""
-
-
-arrangeData()
+# arrangeData(loc)
+print readFromCSV("/home/baptiste/code1161base/OpenDataProject/ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/nsw/bega/bega-200901.csv")

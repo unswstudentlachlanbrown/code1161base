@@ -117,4 +117,6 @@ def arrangeData(location):
 
 
 # arrangeData(loc)
-print readFromCSV("/home/baptiste/code1161base/OpenDataProject/ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/nsw/bega/bega-200901.csv")
+githubURL = "/home/baptiste/code1161base/OpenDataProject"
+csvData = "/ftp.bom.gov.au/anon/gen/clim_data/IDCKWCDEA0/tables/nsw/bega/bega-200901.csv"
+print readFromCSV(githubURL + csvData)

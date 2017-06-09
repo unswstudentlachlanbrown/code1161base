@@ -1,0 +1,41 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BOURKE AIRPORT New South Wales for November 2014,,,,,,,,,,
+Issued at 22:31 GMT on Friday 28 November 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BOURKE AIRPORT,01/11/2014,7.8,0.0, ,35.1,20.0,74,22,5.76,14.82
+BOURKE AIRPORT,02/11/2014,7.7,0.0, ,26.9,14.6,32,10,4.53,26.08
+BOURKE AIRPORT,03/11/2014,7.5,0.0, ,31.0,10.0,33,7,3.22,27.59
+BOURKE AIRPORT,04/11/2014,6.7,0.0, ,34.2,10.4,30,7,2.30,24.16
+BOURKE AIRPORT,05/11/2014,8.8,0.0, ,36.2,13.9,40,8,3.75,26.63
+BOURKE AIRPORT,06/11/2014,9.3,0.0, ,33.7,15.4,22,8,4.24,29.46
+BOURKE AIRPORT,07/11/2014,7.8,0.0, ,35.4,14.5,27,8,2.78,27.60
+BOURKE AIRPORT,08/11/2014,8.9,0.0, ,38.1,15.2,32,6,3.11,30.40
+BOURKE AIRPORT,09/11/2014,9.1,0.0, ,40.9,15.2,37,8,2.93,29.57
+BOURKE AIRPORT,10/11/2014,11.2,0.0, ,38.4,23.0,28,8,5.18,28.91
+BOURKE AIRPORT,11/11/2014,10.0,0.0, ,36.6,19.3,23,6,4.29,28.92
+BOURKE AIRPORT,12/11/2014,8.3,0.0, ,37.3,17.7,35,10,2.95,27.29
+BOURKE AIRPORT,13/11/2014,8.3,0.0, ,39.8,16.6,35,9,2.59,27.99
+BOURKE AIRPORT,14/11/2014,11.8,0.0, ,45.8,22.1,30,8,4.45,26.60
+BOURKE AIRPORT,15/11/2014, ,0.0, , ,25.7,44,12,6.02,22.45
+BOURKE AIRPORT,16/11/2014, ,0.0, , , ,62,21,5.18,24.98
+BOURKE AIRPORT,17/11/2014, ,0.0, , , ,100,14,3.31,28.99
+BOURKE AIRPORT,18/11/2014, ,0.0, , , ,100,12,3.10,24.21
+BOURKE AIRPORT,19/11/2014, ,0.0, , , ,100,9,2.76,27.74
+BOURKE AIRPORT,20/11/2014, ,0.0, , , ,100,7,3.28,26.85
+BOURKE AIRPORT,21/11/2014, ,0.0, , , ,100,13,4.01,28.17
+BOURKE AIRPORT,22/11/2014, ,0.0, , , ,100,10,2.89,27.64
+BOURKE AIRPORT,23/11/2014, ,0.0, ,45.8, ,100,9,4.90,21.89
+BOURKE AIRPORT,24/11/2014, ,1.2, , ,26.4,100,22,4.08,3.72
+BOURKE AIRPORT,25/11/2014, ,4.4, , , ,100,24,3.97,17.13
+BOURKE AIRPORT,26/11/2014, ,0.2, , , ,100,9,3.60,29.47
+BOURKE AIRPORT,27/11/2014, ,0.0, , , ,100,3,3.60,29.76
+Totals:,,123.2,5.8, ,,,,,, 

@@ -1,0 +1,38 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COBAR AIRPORT New South Wales for August 2015,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 25 August 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COBAR AIRPORT,01/08/2015,3.9,0.0, ,24.0,8.2,67,24,3.92,10.22
+COBAR AIRPORT,02/08/2015,3.9,0.0, ,22.3,11.7,80,33,5.10,13.81
+COBAR AIRPORT,03/08/2015,2.1,0.0, ,15.2,0.3,96,46,3.72,13.47
+COBAR AIRPORT,04/08/2015,1.6,0.0, ,12.2,5.4,98,52,2.89,9.82
+COBAR AIRPORT,05/08/2015,1.8,0.0, ,14.4,5.0,95,50,3.24,9.77
+COBAR AIRPORT,06/08/2015,2.0,0.4, ,13.7,5.2,98,45,3.41,13.87
+COBAR AIRPORT,07/08/2015,1.8,0.0, ,15.2,0.5,96,47,2.01,13.77
+COBAR AIRPORT,08/08/2015,1.8,0.0, ,14.9,1.6,95,39,1.84,13.42
+COBAR AIRPORT,09/08/2015,1.8,0.0, ,16.3,0.6,96,38,1.45,12.62
+COBAR AIRPORT,10/08/2015,4.0,0.0, ,21.9,4.1,80,23,4.46,14.98
+COBAR AIRPORT,11/08/2015,2.7,0.0, ,18.6,0.3,91,27,2.66,14.96
+COBAR AIRPORT,12/08/2015,2.6,0.0, ,12.8,6.5,77,45,5.67,11.90
+COBAR AIRPORT,13/08/2015,2.2,0.2, ,15.8,0.5,97,42,2.61,15.42
+COBAR AIRPORT,14/08/2015,2.0,0.2, ,17.3,3.2,89,39,1.76,12.29
+COBAR AIRPORT,15/08/2015,2.7,0.0, ,17.7,7.8,83,41,3.31,15.20
+COBAR AIRPORT,16/08/2015,2.3,0.0, ,17.9,1.6,94,42,2.23,15.27
+COBAR AIRPORT,17/08/2015,2.6,0.0, ,19.4,2.3,93,31,2.37,14.15
+COBAR AIRPORT,18/08/2015,2.4,0.0, ,17.8,1.1,92,36,2.04,15.81
+COBAR AIRPORT,19/08/2015,2.2,0.0, ,18.7,0.1,90,28,1.35,16.21
+COBAR AIRPORT,20/08/2015,3.5,0.0, ,21.3,3.9,84,25,3.36,15.91
+COBAR AIRPORT,21/08/2015,5.1,0.0, ,25.5,9.1,58,27,5.27,11.61
+COBAR AIRPORT,22/08/2015,5.5,0.0, ,26.8,14.1,58,24,5.30,12.15
+COBAR AIRPORT,23/08/2015,1.9,5.4, ,16.8,12.5,99,41,3.50,2.90
+COBAR AIRPORT,24/08/2015, ,12.2, , ,13.0, , , ,13.42
+Totals:,,62.4,18.4, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for August 2014,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 September 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/08/2014,2.2,0.2, ,12.5,4.3,95,48,7.62,10.91
+HAY AIRPORT,02/08/2014,2.2,0.8, ,13.7,-1.8,99,36,3.98,12.75
+HAY AIRPORT,03/08/2014,1.7,0.2, ,14.5,-4.7,98,35,2.01,12.92
+HAY AIRPORT,04/08/2014,1.9,0.0, ,17.2,-4.0,95,29,1.87,12.86
+HAY AIRPORT,05/08/2014, ,0.0, , ,-2.9,98,33,2.19,13.00
+HAY AIRPORT,06/08/2014, , , ,17.8, ,99,37,1.83,13.13
+HAY AIRPORT,07/08/2014,1.6,0.0, ,16.2,-0.6,99,47,2.10,10.13
+HAY AIRPORT,08/08/2014,1.8,0.0, ,17.0,-0.5,97,43,1.98,13.28
+HAY AIRPORT,09/08/2014,2.7,0.0, ,20.4,2.1,93,30,3.05,11.47
+HAY AIRPORT,10/08/2014,3.4,0.0, ,17.2,9.0,75,34,5.71,12.96
+HAY AIRPORT,11/08/2014,2.3,0.0, ,13.5,-0.1,100,38,4.90,11.22
+HAY AIRPORT,12/08/2014,2.6,0.0, ,15.0,-0.8,93,29,3.99,13.89
+HAY AIRPORT,13/08/2014,2.8,0.0, ,17.0,0.8,88,36,4.15,14.00
+HAY AIRPORT,14/08/2014,2.6,0.0, ,18.8,-2.9,95,31,2.65,14.23
+HAY AIRPORT,15/08/2014,3.4,0.0, ,20.3,-1.2,91,25,3.95,13.34
+HAY AIRPORT,16/08/2014,1.9,0.0, ,16.2,7.9,81,61,4.22,5.37
+HAY AIRPORT,17/08/2014,2.2,0.2, ,16.2,8.5,88,58,5.63,7.39
+HAY AIRPORT,18/08/2014,2.4,0.2, ,16.9,6.1,92,56,6.72,9.19
+HAY AIRPORT,19/08/2014,2.8,0.0, ,19.5,4.2,99,40,3.72,14.08
+HAY AIRPORT,20/08/2014,2.6,0.0, ,19.1,1.8,99,40,3.08,14.56
+HAY AIRPORT,21/08/2014,2.6,0.0, ,20.4,0.1,99,36,2.54,14.16
+HAY AIRPORT,22/08/2014,3.2,0.0, ,21.5,3.4,95,39,3.94,14.15
+HAY AIRPORT,23/08/2014,4.1,0.0, ,23.6,8.4,86,31,4.75,14.18
+HAY AIRPORT,24/08/2014,3.5,0.0, ,20.1,6.6,80,34,4.47,15.10
+HAY AIRPORT,25/08/2014,1.9,0.0, ,16.3,2.8,99,56,3.49,10.50
+HAY AIRPORT,26/08/2014,3.2,0.2, ,21.6,3.9,99,37,3.75,13.48
+HAY AIRPORT,27/08/2014,3.5,0.0, ,22.2,4.7,100,31,3.75,15.60
+HAY AIRPORT,28/08/2014,2.9,0.0, ,22.6,2.4,100,25,1.96,16.13
+HAY AIRPORT,29/08/2014,2.8,0.0, ,23.3,1.8,82,24,1.60,16.07
+HAY AIRPORT,30/08/2014,3.8,0.0, ,23.1,2.4,89,27,3.35,16.33
+HAY AIRPORT,31/08/2014,5.2,0.0, ,25.5,8.3,66,21,4.76,16.50
+Totals:,,79.8,1.8, ,,,,,, 

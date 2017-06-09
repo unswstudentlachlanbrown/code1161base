@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BOYCE New South Wales for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BOYCE,01/11/2016,4.6,0.0, ,16.8,2.8,77,30,3.87,27.70
+MOUNT BOYCE,02/11/2016,5.2,0.0, ,18.2,5.0,72,33,5.57,28.22
+MOUNT BOYCE,03/11/2016,5.3,0.0, ,21.2,6.6,72,29,3.56,28.35
+MOUNT BOYCE,04/11/2016,6.1,0.0, ,21.3,8.5,75,29,6.46,28.49
+MOUNT BOYCE,05/11/2016,6.3,0.0, ,14.8,11.3,55,26,11.05,28.61
+MOUNT BOYCE,06/11/2016,5.4,0.0, ,17.0,5.5,67,36,8.65,28.74
+MOUNT BOYCE,07/11/2016,6.8,0.0, ,24.8,8.9,68,27,5.58,28.87
+MOUNT BOYCE,08/11/2016,5.4,0.0, ,27.5,13.9,94,18,4.36,14.44
+MOUNT BOYCE,09/11/2016,3.0,3.8, ,20.6,12.0,99,58,2.25,15.08
+MOUNT BOYCE,10/11/2016,5.3,1.6, ,22.0,9.9,99,36,5.11,26.91
+MOUNT BOYCE,11/11/2016,5.5,0.0, ,24.7,10.2,98,33,2.93,28.89
+MOUNT BOYCE,12/11/2016,6.2,22.6, ,24.5,12.9,99,32,7.48,25.37
+MOUNT BOYCE,13/11/2016,5.6,0.0, ,17.9,11.1,85,33,9.54,27.37
+MOUNT BOYCE,14/11/2016,3.4,0.0, ,16.0,6.9,98,49,6.57,17.88
+MOUNT BOYCE,15/11/2016,3.7,1.2, ,19.2,7.5,99,41,2.31,20.15
+MOUNT BOYCE,16/11/2016,4.8,0.0, ,22.5,8.4,97,42,2.75,26.60
+MOUNT BOYCE,17/11/2016,4.9,1.6, ,23.6,9.3,98,41,1.87,27.76
+MOUNT BOYCE,18/11/2016,6.8,0.0, ,27.9,10.7,70,31,4.01,30.11
+MOUNT BOYCE,19/11/2016,5.9,0.0, ,27.5,17.8,95,31,3.60,25.07
+MOUNT BOYCE,20/11/2016,4.3,2.6, ,26.6,11.9,99,45,2.77,18.85
+MOUNT BOYCE,21/11/2016,5.8,0.6, ,26.8,13.6,90,37,3.47,26.18
+MOUNT BOYCE,22/11/2016,7.3,0.8, ,28.3,16.7,66,25,4.10,29.75
+MOUNT BOYCE,23/11/2016,6.7,0.0, ,26.3,15.9,85,29,5.94,25.13
+MOUNT BOYCE,24/11/2016,5.5,0.0, ,20.2,3.7,94,27,4.60,30.73
+MOUNT BOYCE,25/11/2016,5.8,0.0, ,21.8,7.1,96,27,4.56,30.15
+MOUNT BOYCE,26/11/2016,6.0,0.0, ,23.9,7.7,97,18,3.09,30.85
+MOUNT BOYCE,27/11/2016,4.8,0.0, ,23.9,10.9,98,51,2.59,26.33
+MOUNT BOYCE,28/11/2016,5.5,1.0, ,25.8,12.3,98,31,3.49,24.39
+MOUNT BOYCE,29/11/2016,6.3,0.0, ,25.8,13.4,95,17,3.08,29.50
+MOUNT BOYCE,30/11/2016,3.9,0.0, ,23.8,12.4,95,47,2.46,17.97
+Totals:,,162.1,35.8, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT GININI New South Wales for January 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT GININI,01/01/2010,4.0,20.4, ,19.6,10.4,99,75,4.94,27.23
+MOUNT GININI,02/01/2010,3.2,2.4, ,18.0,11.8,99,78,5.27,20.72
+MOUNT GININI,03/01/2010,5.4,10.6, ,20.1,7.7,98,41,3.39,32.77
+MOUNT GININI,04/01/2010,4.9, , ,19.2,6.8,99,44,4.40,29.68
+MOUNT GININI,05/01/2010,4.4,0.2, ,20.9,8.1,98,57,5.43,24.31
+MOUNT GININI,06/01/2010,6.4,2.2, ,22.1,10.6,98,25,4.85,33.30
+MOUNT GININI,07/01/2010, ,0.0, ,21.7,6.9, , , ,34.32
+MOUNT GININI,08/01/2010,5.8, , ,22.3,8.0,98,44,4.24,33.97
+MOUNT GININI,09/01/2010, ,0.0, , ,14.1, , , ,32.38
+MOUNT GININI,10/01/2010,7.7, , ,27.8,16.0,87,23,4.53,33.60
+MOUNT GININI,11/01/2010,7.7,0.0, ,27.7,14.6,71,30,4.49,34.27
+MOUNT GININI,12/01/2010,8.2,0.0, ,27.9,17.9,64,29,6.76,29.47
+MOUNT GININI,13/01/2010, ,0.0, , ,16.8,98,37,4.64,27.44
+MOUNT GININI,14/01/2010, , , , , , , , ,28.22
+MOUNT GININI,15/01/2010, , , ,22.1, ,98,39,3.80,33.03
+MOUNT GININI,16/01/2010,3.2,0.0, ,20.0,10.6,98,72,5.24,17.94
+MOUNT GININI,17/01/2010,5.2,0.2, ,16.0,9.5,98,31,6.02,32.60
+MOUNT GININI,18/01/2010,2.8,0.2, ,7.6,0.3,98,57,7.49,27.28
+MOUNT GININI,19/01/2010,4.6,0.2, ,14.8,-0.6,97,38,6.62,33.66
+MOUNT GININI,20/01/2010,6.4,0.0, ,20.0,5.1,76,27,7.10,33.53
+MOUNT GININI,21/01/2010,7.9, , ,25.2,11.5,48,31,6.82,33.07
+MOUNT GININI,22/01/2010,7.6,0.0, ,26.7,13.4,86,24,6.71,29.98
+MOUNT GININI,23/01/2010,7.2,0.0, ,25.2,16.8,98,30,7.22,32.55
+MOUNT GININI,24/01/2010,5.9,0.2, ,22.6,5.5,98,33,3.88,33.28
+MOUNT GININI,25/01/2010,6.9,0.2, ,24.4,9.2,74,22,4.31,32.98
+MOUNT GININI,26/01/2010,6.1,0.0, ,24.8,12.6,82,21,4.01,25.33
+MOUNT GININI,27/01/2010,5.6,0.0, ,24.2,10.9,98,32,4.17,26.43
+MOUNT GININI,28/01/2010,5.8,0.0, ,22.6,10.7,99,21,4.25,27.55
+MOUNT GININI,29/01/2010,6.3,0.0, ,24.5,11.8,98,25,4.51,29.69
+MOUNT GININI,30/01/2010,5.2, , ,20.6,8.2,98,50,6.21,32.12
+MOUNT GININI,31/01/2010,5.1,0.2, ,21.7,9.1,98,47,4.90,28.78
+Totals:,,149.5,37, ,,,,,, 

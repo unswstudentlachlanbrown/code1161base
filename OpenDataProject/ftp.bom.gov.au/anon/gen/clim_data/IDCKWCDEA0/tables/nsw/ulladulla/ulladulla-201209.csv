@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ULLADULLA New South Wales for September 2012,,,,,,,,,,
+Issued at 22:38 GMT on Monday 01 October 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ULLADULLA,01/09/2012,3.0,4.0, ,15.7,4.5,87,44,5.97,14.53
+ULLADULLA,02/09/2012,2.4,0.0, ,16.4,6.8,91,45,1.94,17.18
+ULLADULLA,03/09/2012,2.6,0.0, ,19.6,5.8,100,29,1.68,17.04
+ULLADULLA,04/09/2012,2.7,0.0, ,20.8,9.8,91,36,1.51,16.88
+ULLADULLA,05/09/2012,6.6,0.0, ,27.1,10.0,74,13,6.09,17.68
+ULLADULLA,06/09/2012,5.0,0.0, ,23.9,16.0,68,27,4.78,17.68
+ULLADULLA,07/09/2012,5.4,0.0, ,18.0,15.2,42,25,6.25,16.89
+ULLADULLA,08/09/2012,4.4,0.0, ,21.1,11.5,55,34,4.51,17.43
+ULLADULLA,09/09/2012,3.0,0.0, ,18.3,11.8,90,39,2.33,18.25
+ULLADULLA,10/09/2012,2.9,0.0, ,20.6,8.1,100,45,2.13,18.27
+ULLADULLA,11/09/2012,2.1,0.0, ,17.6,11.8,99,76,2.94,14.75
+ULLADULLA,12/09/2012,2.7,0.2, ,19.0,8.6,96,65,2.97,18.91
+ULLADULLA,13/09/2012, , , , , ,94,34,4.22,3.81
+ULLADULLA,14/09/2012, , , ,15.8, ,83,36,2.69,19.47
+ULLADULLA,15/09/2012,2.9,0.0, ,16.4,10.4,84,52,2.81,19.44
+ULLADULLA,16/09/2012,2.7,0.0, ,18.4,8.1,90,67,3.08,18.73
+ULLADULLA,17/09/2012,1.9,0.0, ,16.8,12.0,90,66,3.58,7.31
+ULLADULLA,18/09/2012,2.6,0.0, ,18.5,11.0,91,68,2.31,17.26
+ULLADULLA,19/09/2012,2.6,0.4, ,18.1,10.5,90,64,2.05,17.21
+ULLADULLA,20/09/2012,2.6,0.0, ,18.6,12.2,89,72,2.08,17.47
+ULLADULLA,21/09/2012,4.0,1.0, ,25.5,13.9,95,30,3.00,15.58
+ULLADULLA,22/09/2012,2.9,2.2, ,19.4,10.3,95,48,1.71,19.09
+ULLADULLA,23/09/2012,4.9,0.0, ,25.6,9.1,90,24,3.52,21.04
+ULLADULLA,24/09/2012,4.2,0.0, ,21.5,11.4,83,21,2.99,20.82
+ULLADULLA,25/09/2012,2.3,0.6, ,16.3,9.7,84,55,2.05,12.72
+ULLADULLA,26/09/2012,3.1,0.0, ,18.3,11.2,86,71,3.62,21.30
+ULLADULLA,27/09/2012,2.4,0.0, ,23.7,14.2,87,74,3.56,10.32
+ULLADULLA,28/09/2012,5.6,0.0, ,28.5,15.6,87,31,6.16,12.21
+ULLADULLA,29/09/2012,5.3,0.0, ,19.6,16.5,57,25,4.94,20.20
+ULLADULLA,30/09/2012,3.9,0.0, ,19.7,9.4,85,29,2.70,21.91
+Totals:,,96.7,8.4, ,,,,,, 

@@ -1,0 +1,43 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for February 2012,,,,,,,,,,
+Issued at 22:33 GMT on Thursday 01 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/02/2012,7.1,0.0, ,31.3,9.0,89,29,4.13,27.97
+HAY AIRPORT,02/02/2012,3.9,0.0, ,28.1,16.9,93,44,4.34,9.05
+HAY AIRPORT,03/02/2012,6.3,3.2, ,31.0,13.2,97,32,3.68,25.37
+HAY AIRPORT,04/02/2012,6.9,0.2, ,34.9,15.0,88,18,2.52,27.22
+HAY AIRPORT,05/02/2012,11.7,0.0, ,37.7,23.3,56,21,9.51,17.36
+HAY AIRPORT,06/02/2012,6.7,0.0, ,25.6,10.4,81,24,4.95,29.86
+HAY AIRPORT,07/02/2012,7.2,0.0, ,28.0,10.7,80,25,5.19,29.36
+HAY AIRPORT,08/02/2012,7.5,0.0, ,27.9,9.3,78,17,4.98,29.57
+HAY AIRPORT,09/02/2012,7.4,0.0, ,30.4,8.7,85,18,4.25,28.12
+HAY AIRPORT,10/02/2012,7.2,0.0, ,31.0,10.4,65,19,3.80,26.51
+HAY AIRPORT,11/02/2012,6.7,0.0, ,30.7,10.3,85,25,3.79,26.15
+HAY AIRPORT,12/02/2012,6.6,0.0, ,29.6,12.0,86,29,4.07,27.37
+HAY AIRPORT,13/02/2012,7.1,0.0, ,31.2,13.0,87,20,3.69,27.91
+HAY AIRPORT,14/02/2012,7.0,0.0, ,35.2,12.8,82,12,2.44,27.53
+HAY AIRPORT,15/02/2012,9.7,0.0, ,37.3,20.7,45,15,5.22,23.25
+HAY AIRPORT,16/02/2012,6.7,0.0, ,34.8,24.8,86,27,6.44,8.76
+HAY AIRPORT,17/02/2012,7.1,4.2, ,36.0,16.5,93,24,3.77,22.25
+HAY AIRPORT,18/02/2012,7.5,0.0, ,37.2,15.1,89,22,3.20,26.28
+HAY AIRPORT,19/02/2012,6.6,0.0, ,34.7,20.5,80,31,5.09,14.77
+HAY AIRPORT,20/02/2012,3.5,0.4, ,28.6,20.7,92,45,3.11,9.41
+HAY AIRPORT,21/02/2012,5.3,0.4, ,31.6,13.8,99,32,2.86,20.03
+HAY AIRPORT,22/02/2012,7.0,0.0, ,33.5,14.7,84,19,3.42,25.90
+HAY AIRPORT,23/02/2012,6.6,0.0, ,36.1,11.6,77,11,2.18,25.97
+HAY AIRPORT,24/02/2012,8.8,0.0, ,38.0,17.4,50,15,3.90,26.29
+HAY AIRPORT,25/02/2012,10.1,0.0, ,38.3,22.0,47,16,5.64,23.43
+HAY AIRPORT,26/02/2012,6.4,0.0, ,33.3,23.3,82,45,6.61,16.02
+HAY AIRPORT,27/02/2012,6.3,7.0, ,34.5,21.4,97,38,5.97,15.69
+HAY AIRPORT,28/02/2012,1.7,19.0, ,26.3,22.2,99,82,3.59,6.16
+HAY AIRPORT,29/02/2012,1.2,14.6, ,24.0,18.7,99,90,4.88,4.27
+Totals:,,193.8,49, ,,,,,, 

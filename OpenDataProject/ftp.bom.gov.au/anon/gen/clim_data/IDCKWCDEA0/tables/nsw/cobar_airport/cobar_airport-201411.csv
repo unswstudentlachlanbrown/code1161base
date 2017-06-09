@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COBAR AIRPORT New South Wales for November 2014,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 December 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COBAR AIRPORT,01/11/2014, , , ,31.3, ,61,24,6.80,21.55
+COBAR AIRPORT,02/11/2014,7.0,0.0, ,24.2,10.2,36,13,4.46,27.65
+COBAR AIRPORT,03/11/2014,6.7,0.0, ,29.1,6.1,45,7,2.84,27.75
+COBAR AIRPORT,04/11/2014,7.4,0.0, ,32.7,12.0,28,6,2.99,24.68
+COBAR AIRPORT,05/11/2014,9.0,0.0, ,32.8,13.7,32,9,4.72,25.24
+COBAR AIRPORT,06/11/2014,7.4,0.0, ,30.3,8.8,32,10,3.11,29.42
+COBAR AIRPORT,07/11/2014,7.1,0.0, ,33.7,12.1,33,7,2.34,28.52
+COBAR AIRPORT,08/11/2014,8.9,0.0, ,36.9,13.0,29,7,3.22,30.75
+COBAR AIRPORT,09/11/2014,10.1,0.0, ,38.9,20.2,39,9,4.23,28.86
+COBAR AIRPORT,10/11/2014,10.0,0.0, ,32.9,17.4,28,3,5.02,30.48
+COBAR AIRPORT,11/11/2014,8.5,0.0, ,33.1,14.1,37,6,3.60,29.49
+COBAR AIRPORT,12/11/2014,7.6,0.0, ,35.4,14.0,45,9,2.64,27.40
+COBAR AIRPORT,13/11/2014,7.5,0.0, ,38.6,14.4,27,8,2.05,28.58
+COBAR AIRPORT,14/11/2014, ,0.0, , ,24.1,28,7,5.36,26.49
+COBAR AIRPORT,15/11/2014, , , , , , , , ,16.41
+COBAR AIRPORT,16/11/2014, , , , , , , , ,26.54
+COBAR AIRPORT,17/11/2014, , , , , , , , ,30.22
+COBAR AIRPORT,18/11/2014, , , ,30.6, ,47,16,3.23,29.51
+COBAR AIRPORT,19/11/2014,6.8,0.0, ,34.0,13.0,44,8,1.80,30.11
+COBAR AIRPORT,20/11/2014,9.7,0.0, ,38.1,15.5,26,8,4.20,23.92
+COBAR AIRPORT,21/11/2014,8.9,0.0, ,36.1,18.9,49,17,3.76,29.16
+COBAR AIRPORT,22/11/2014,8.9,0.0, ,40.4,18.5,42,13,3.15,26.93
+COBAR AIRPORT,23/11/2014,13.3,0.0, ,45.7,26.8,27,8,5.89,23.59
+COBAR AIRPORT,24/11/2014,6.2,0.4, ,35.0,27.9,68,23,4.77,6.62
+COBAR AIRPORT,25/11/2014,8.2,0.0, ,29.5,16.8,77,14,5.34,27.89
+COBAR AIRPORT,26/11/2014,8.1,0.0, ,31.6,10.5,41,11,3.51,30.19
+COBAR AIRPORT,27/11/2014,8.9,0.0, ,33.3,13.3,40,13,4.03,30.38
+COBAR AIRPORT,28/11/2014,8.5,0.0, ,34.7,19.5,60,17,4.02,27.03
+COBAR AIRPORT,29/11/2014,9.7,0.0, ,36.2,23.6,70,19,6.13,24.11
+COBAR AIRPORT,30/11/2014,7.6,0.6, ,34.5,20.0,73,26,5.37,17.55
+Totals:,,202,1, ,,,,,, 

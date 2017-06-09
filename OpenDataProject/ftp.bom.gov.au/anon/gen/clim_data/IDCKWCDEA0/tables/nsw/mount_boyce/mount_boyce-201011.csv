@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BOYCE New South Wales for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 December 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BOYCE,01/11/2010,3.0,0.0, ,17.6,10.2,99,60,3.34,16.89
+MOUNT BOYCE,02/11/2010,2.1,22.6, ,9.9,4.3,96,73,6.62,17.17
+MOUNT BOYCE,03/11/2010,4.2,0.0, ,17.0,5.7,95,48,4.29,27.75
+MOUNT BOYCE,04/11/2010,2.2,0.6, ,11.6,6.6,99,81,2.74,17.07
+MOUNT BOYCE,05/11/2010,1.8,10.0, ,9.2,5.2,98,74,3.36,13.53
+MOUNT BOYCE,06/11/2010,1.8,6.2, ,10.9,5.3,99,94,2.78,15.36
+MOUNT BOYCE,07/11/2010,4.1,4.8, ,18.9,6.3,99,62,2.98,28.53
+MOUNT BOYCE,08/11/2010,5.5,0.0, ,24.1,9.9,98,43,4.41,29.12
+MOUNT BOYCE,09/11/2010,3.6,0.0, ,19.3,11.7,98,64,2.84,21.43
+MOUNT BOYCE,10/11/2010,4.3,0.2, ,21.4,13.7,97,53,3.52,23.43
+MOUNT BOYCE,11/11/2010,5.0,15.2, ,22.6,12.4,93,50,2.87,28.00
+MOUNT BOYCE,12/11/2010,5.7,3.8, ,26.3,14.7,88,35,2.18,28.74
+MOUNT BOYCE,13/11/2010,5.2,0.0, ,26.0,16.8,93,51,3.41,25.50
+MOUNT BOYCE,14/11/2010,4.9,1.6, ,24.5,17.2,91,52,4.05,22.69
+MOUNT BOYCE,15/11/2010,1.9,5.2, ,15.2,14.1,99,86,2.15,10.91
+MOUNT BOYCE,16/11/2010,4.8,20.0, ,20.8,10.9,99,45,3.33,27.91
+MOUNT BOYCE,17/11/2010,3.1,0.4, ,16.8,9.8,98,73,2.40,20.49
+MOUNT BOYCE,18/11/2010,5.1,0.0, ,21.7,10.4,96,31,2.47,28.80
+MOUNT BOYCE,19/11/2010,2.3,0.6, ,10.2,9.2,98,64,2.53,15.40
+MOUNT BOYCE,20/11/2010,4.9,0.6, ,19.7,5.1,98,46,1.74,33.15
+MOUNT BOYCE,21/11/2010,5.4,0.0, ,21.1,8.8,96,29,2.12,32.51
+MOUNT BOYCE,22/11/2010,4.5,0.0, ,19.2,9.0,97,55,2.45,28.85
+MOUNT BOYCE,23/11/2010,5.2,0.0, ,21.2,8.8,98,47,3.16,32.41
+MOUNT BOYCE,24/11/2010,5.5,0.4, ,23.7,11.0,96,44,2.71,31.18
+MOUNT BOYCE,25/11/2010,5.0,0.0, ,24.7,13.9,91,44,2.26,25.75
+MOUNT BOYCE,26/11/2010,4.6,1.0, ,23.7,15.0,87,51,1.95,23.93
+MOUNT BOYCE,27/11/2010,5.0,0.2, ,23.6,13.9,91,41,2.62,25.17
+MOUNT BOYCE,28/11/2010,2.4,0.6, ,15.7,14.3,95,67,3.04,12.00
+MOUNT BOYCE,29/11/2010,1.9,10.8, ,13.7,11.6,98,95,2.54,12.82
+MOUNT BOYCE,30/11/2010,1.9,16.8, ,14.6,11.1,99,97,3.11,13.81
+Totals:,,116.9,121.6, ,,,,,, 

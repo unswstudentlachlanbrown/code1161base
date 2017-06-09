@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PORT KEMBLA NTC New South Wales for May 2014,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 June 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PORT KEMBLA NTC,01/05/2014,3.2, , ,18.6,12.9,40,30,2.80,14.41
+PORT KEMBLA NTC,02/05/2014,4.1, , ,20.5,15.2,35,26,3.90,11.35
+PORT KEMBLA NTC,03/05/2014,4.2, , ,16.5,12.6,44,35,6.73,4.47
+PORT KEMBLA NTC,04/05/2014,5.6, , ,17.7,11.3,41,31,10.25,12.91
+PORT KEMBLA NTC,05/05/2014,4.6, , ,19.8,11.7,44,28,5.76,12.53
+PORT KEMBLA NTC,06/05/2014,3.6, , ,20.0,13.5,39,26,3.44,11.75
+PORT KEMBLA NTC,07/05/2014,4.0, , ,18.5,12.8,41,29,4.59,13.43
+PORT KEMBLA NTC,08/05/2014,4.2, , ,19.1,13.8,37,28,4.76,12.65
+PORT KEMBLA NTC,09/05/2014,3.0, , ,19.1,13.8,38,28,2.72,7.53
+PORT KEMBLA NTC,10/05/2014,3.3, , ,22.1,14.3,34,23,2.65,9.47
+PORT KEMBLA NTC,11/05/2014,3.7, , ,20.7,16.4,33,25,3.37,8.77
+PORT KEMBLA NTC,12/05/2014, , , , ,15.4,35,25,3.36,12.45
+PORT KEMBLA NTC,13/05/2014, , , , , ,37,26,2.14,10.93
+PORT KEMBLA NTC,14/05/2014, , , ,21.6, ,35,25,3.40,12.26
+PORT KEMBLA NTC,15/05/2014,3.3, , ,21.8,14.1,37,24,2.81,12.55
+PORT KEMBLA NTC,16/05/2014,2.9, , ,22.7,14.4,37,23,2.18,12.49
+PORT KEMBLA NTC,17/05/2014,3.6, , ,24.5,16.3,32,20,2.83,12.26
+PORT KEMBLA NTC,18/05/2014,3.6, , ,23.2,15.8,34,22,2.97,8.53
+PORT KEMBLA NTC,19/05/2014, , , , ,16.4,33,20,3.08,11.53
+PORT KEMBLA NTC,20/05/2014, , , ,25.1, ,28,19,4.90,10.29
+PORT KEMBLA NTC,21/05/2014,3.4, , ,21.5,17.1,31,25,2.86,10.04
+PORT KEMBLA NTC,22/05/2014,2.6, , ,22.2,17.0,31,24,1.97,11.51
+PORT KEMBLA NTC,23/05/2014,2.9, , ,25.7,17.1,31,19,2.01,11.06
+PORT KEMBLA NTC,24/05/2014,2.8, , ,22.7,17.3,32,22,2.06,9.94
+PORT KEMBLA NTC,25/05/2014,3.6, , ,23.6,16.2,33,22,3.03,10.57
+PORT KEMBLA NTC,26/05/2014,3.2, , ,22.2,16.4,32,23,2.70,10.82
+PORT KEMBLA NTC,27/05/2014,4.7, , ,22.8,18.3,31,22,4.44,7.95
+PORT KEMBLA NTC,28/05/2014,4.9, , ,21.4,16.9,31,24,5.28,10.86
+PORT KEMBLA NTC,29/05/2014,3.7, , ,19.4,14.7,36,28,4.04,6.90
+PORT KEMBLA NTC,30/05/2014,2.8, , ,19.0,13.7,38,29,2.82,9.48
+PORT KEMBLA NTC,31/05/2014,3.3, , ,19.8,14.9,36,27,3.28,6.48
+Totals:,,94.8, , ,,,,,, 

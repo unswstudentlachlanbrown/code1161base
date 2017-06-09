@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for August 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 September 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/08/2016,0.8,3.4, ,12.1,10.5,100,84,4.54,3.50
+HAY AIRPORT,02/08/2016,1.8,23.4, ,13.0,7.3,100,63,8.30,12.60
+HAY AIRPORT,03/08/2016,1.7,0.0, ,14.8,4.0,99,66,5.47,12.39
+HAY AIRPORT,04/08/2016,1.6,0.2, ,15.3,0.7,99,58,2.60,13.44
+HAY AIRPORT,05/08/2016,1.8,0.2, ,16.1,-0.2,99,50,2.53,13.56
+HAY AIRPORT,06/08/2016,1.7,0.0, ,15.2,1.2,99,49,2.55,11.79
+HAY AIRPORT,07/08/2016,1.8,0.0, ,14.6,0.8,96,47,2.60,13.80
+HAY AIRPORT,08/08/2016,1.6,0.0, ,16.6,-0.7,99,59,2.13,12.65
+HAY AIRPORT,09/08/2016,2.4,0.0, ,18.7,4.4,98,56,6.26,10.10
+HAY AIRPORT,10/08/2016,2.0,0.0, ,14.9,3.6,99,56,5.07,13.97
+HAY AIRPORT,11/08/2016,1.7,0.2, ,14.5,2.3,99,59,3.25,12.71
+HAY AIRPORT,12/08/2016,1.8,0.0, ,14.9,2.0,99,55,3.74,11.39
+HAY AIRPORT,13/08/2016,2.0,0.0, ,17.5,2.3,99,59,3.40,14.54
+HAY AIRPORT,14/08/2016,1.6,0.0, ,16.9,1.9,99,57,1.46,13.38
+HAY AIRPORT,15/08/2016,1.7,0.0, ,17.6,0.2,99,59,1.71,14.83
+HAY AIRPORT,16/08/2016,3.0,0.0, ,20.9,3.5,99,45,4.50,15.01
+HAY AIRPORT,17/08/2016,2.9,0.0, ,22.5,9.7,95,44,3.39,14.46
+HAY AIRPORT,18/08/2016,3.8,0.0, ,22.4,7.8,86,47,6.57,15.26
+HAY AIRPORT,19/08/2016,2.0,0.0, ,16.4,13.5,99,57,7.33,3.81
+HAY AIRPORT,20/08/2016,2.2,11.2, ,14.4,1.9,99,54,5.24,13.96
+HAY AIRPORT,21/08/2016,2.4,0.2, ,17.0,2.0,99,52,4.33,14.49
+HAY AIRPORT,22/08/2016,1.1,0.0, ,12.6,8.2,99,68,1.69,6.64
+HAY AIRPORT,23/08/2016,1.4,3.0, ,13.8,2.4,99,71,1.08,13.40
+HAY AIRPORT,24/08/2016,2.1,0.2, ,14.9,2.0,99,50,3.76,13.08
+HAY AIRPORT,25/08/2016,2.3,0.0, ,14.5,0.0,99,51,4.79,15.32
+HAY AIRPORT,26/08/2016,2.0,0.0, ,15.0,-1.4,99,51,2.79,14.96
+HAY AIRPORT,27/08/2016,2.4,0.0, ,16.3,-0.5,99,46,3.00,16.33
+HAY AIRPORT,28/08/2016,3.4,0.2, ,19.5,4.8,87,37,4.67,15.41
+HAY AIRPORT,29/08/2016,3.1,0.0, ,19.1,8.4,79,50,5.41,11.54
+HAY AIRPORT,30/08/2016,1.4,1.0, ,14.8,11.2,99,73,6.40,5.00
+HAY AIRPORT,31/08/2016,2.4,20.2, ,19.5,11.7,100,65,4.30,14.28
+Totals:,,63.9,63.4, ,,,,,, 

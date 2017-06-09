@@ -1,0 +1,42 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for February 2017,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 March 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/02/2017,4.2,0.0, ,27.9,20.0,73,26,3.06,8.25
+HAY AIRPORT,02/02/2017,6.6,2.0, ,30.9,13.4,78,18,3.59,21.59
+HAY AIRPORT,03/02/2017,6.5,0.0, ,33.5,14.4,63,15,2.23,26.12
+HAY AIRPORT,04/02/2017,7.3,0.0, ,38.1,15.2,55,13,3.05,18.37
+HAY AIRPORT,05/02/2017,8.1,0.0, ,39.1,22.0,75,20,4.69,16.67
+HAY AIRPORT,06/02/2017,5.1,0.0, ,33.5,20.8,88,42,3.75,14.18
+HAY AIRPORT,07/02/2017,8.5,0.0, ,37.1,15.6,86,23,4.50,26.16
+HAY AIRPORT,08/02/2017,10.9,0.0, ,39.7,20.0,68,18,6.05,27.92
+HAY AIRPORT,09/02/2017,13.8,0.0, ,45.5,25.5,53,12,6.75,27.39
+HAY AIRPORT,10/02/2017,13.6,0.0, ,47.4,30.1,34,9,5.81,26.79
+HAY AIRPORT,11/02/2017,11.7,0.0, ,46.0,27.2,55,15,5.35,24.09
+HAY AIRPORT,12/02/2017,6.0,0.0, ,23.9,21.3,62,28,7.18,8.40
+HAY AIRPORT,13/02/2017,6.9,0.0, ,27.9,8.9,72,28,5.15,26.94
+HAY AIRPORT,14/02/2017,7.6,0.0, ,29.9,11.4,82,16,5.01,26.89
+HAY AIRPORT,15/02/2017,7.0,0.0, ,33.9,10.1,76,8,2.74,26.29
+HAY AIRPORT,16/02/2017,9.4,0.0, ,38.3,17.3,39,9,4.17,24.96
+HAY AIRPORT,17/02/2017,8.7,0.0, ,31.9,20.0,54,15,5.32,25.01
+HAY AIRPORT,18/02/2017,6.9,0.0, ,25.2,13.5,74,21,6.56,23.13
+HAY AIRPORT,19/02/2017,6.3,0.0, ,23.9,9.5,65,26,6.12,22.49
+HAY AIRPORT,20/02/2017,5.6,0.0, ,25.0,7.1,86,23,3.83,25.15
+HAY AIRPORT,21/02/2017,5.9,0.0, ,29.3,9.0,61,15,2.42,25.60
+HAY AIRPORT,22/02/2017,10.8,0.0, ,38.1,11.0,54,8,5.62,25.38
+HAY AIRPORT,23/02/2017,8.3,0.0, ,33.9,15.1,57,20,4.79,25.14
+HAY AIRPORT,24/02/2017,8.4,0.0, ,32.3,15.9,79,15,5.68,25.01
+HAY AIRPORT,25/02/2017,7.8,0.0, ,31.1,10.4,79,16,5.19,24.75
+HAY AIRPORT,26/02/2017,7.8,0.0, ,34.5,13.6,70,21,4.37,24.46
+HAY AIRPORT,27/02/2017,8.2,0.0, ,33.9,17.0,64,17,4.77,24.32
+HAY AIRPORT,28/02/2017,8.2,0.0, ,34.7,19.8,57,18,4.44,24.08
+Totals:,,226.1,2, ,,,,,, 

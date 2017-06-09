@@ -1,0 +1,42 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PATERSON (TOCAL) New South Wales for February 2010,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PATERSON (TOCAL),01/02/2010, ,3.4,4.8, ,17.1, , , ,24.28
+PATERSON (TOCAL),02/02/2010, ,2.0,6.0,27.7, , , , ,21.32
+PATERSON (TOCAL),03/02/2010, ,7.4,4.2, ,20.3, , , ,19.41
+PATERSON (TOCAL),04/02/2010, ,6.4,3.8, , ,99,72,3.31,20.65
+PATERSON (TOCAL),05/02/2010, ,18.2,3.2, , ,98,71,1.77,16.67
+PATERSON (TOCAL),06/02/2010,3.2,4.0,2.6,28.3,21.5,96,69,1.96,13.70
+PATERSON (TOCAL),07/02/2010,3.9,5.2,4.6,27.4,21.6,99,71,2.77,18.62
+PATERSON (TOCAL),08/02/2010, ,18.4,2.4, ,20.6,98,53,3.02,26.27
+PATERSON (TOCAL),09/02/2010, ,0.2,5.2,29.9, ,100,56,2.29,26.98
+PATERSON (TOCAL),10/02/2010,5.7,0.0,4.4,31.4,18.3,99,43,1.74,28.05
+PATERSON (TOCAL),11/02/2010, ,0.0,7.4, ,17.5,98,43,1.39,30.17
+PATERSON (TOCAL),12/02/2010, ,0.0,4.4,36.6, ,97,31,3.03,28.63
+PATERSON (TOCAL),13/02/2010,5.2,0.0,8.0,31.5,22.0,98,57,2.66,23.28
+PATERSON (TOCAL),14/02/2010,3.8,10.4,6.4,31.0,22.5,98,63,1.63,16.61
+PATERSON (TOCAL),15/02/2010, ,3.4,1.4, ,22.0,98,49,1.95,19.74
+PATERSON (TOCAL),16/02/2010,4.2,0.0,4.0,27.0,18.8,96,56,2.35,20.60
+PATERSON (TOCAL),17/02/2010, ,0.0,4.0, ,18.1, , , ,18.65
+PATERSON (TOCAL),18/02/2010, ,0.0,3.7,26.0, , , , ,22.66
+PATERSON (TOCAL),19/02/2010,3.1,0.8,3.2,24.7,17.4,97,60,1.20,15.85
+PATERSON (TOCAL),20/02/2010,5.8,1.2,3.0,30.8,14.8,100,37,2.25,28.69
+PATERSON (TOCAL),21/02/2010,6.4,0.0,7.6,34.3,16.8,99,24,2.01,29.05
+PATERSON (TOCAL),22/02/2010,6.3,0.0,4.4,36.4,17.8,96,27,1.99,26.55
+PATERSON (TOCAL),23/02/2010,5.9,0.0,8.0,34.0,19.3,84,37,2.89,22.33
+PATERSON (TOCAL),24/02/2010,3.6,0.0,5.0,24.6,19.3,82,49,2.06,15.45
+PATERSON (TOCAL),25/02/2010,4.9,0.0,4.6,27.0,18.2,91,42,2.52,23.27
+PATERSON (TOCAL),26/02/2010,4.3,0.1,2.8,27.6,13.2,97,51,2.44,21.52
+PATERSON (TOCAL),27/02/2010,6.2,0.0,6.0,33.1,15.5,97,31,2.62,27.04
+PATERSON (TOCAL),28/02/2010,5.1,0.0,7.8,32.8,15.7,99,31,1.63,23.62
+Totals:,,77.6,81.1,132.9,,,,,, 

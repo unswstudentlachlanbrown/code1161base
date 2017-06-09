@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BOYCE New South Wales for April 2012,,,,,,,,,,
+Issued at 22:38 GMT on Tuesday 01 May 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BOYCE,01/04/2012,3.4,0.0, ,24.3,12.5,98,41,2.64,16.36
+MOUNT BOYCE,02/04/2012,3.0,8.6, ,22.1,10.7,93,52,1.92,18.34
+MOUNT BOYCE,03/04/2012,3.5,0.4, ,24.3,11.3,95,36,2.21,18.25
+MOUNT BOYCE,04/04/2012,3.0,0.0, ,23.3,16.0,95,55,1.85,16.93
+MOUNT BOYCE,05/04/2012,2.6,0.0, ,21.7,13.0,98,64,2.07,15.84
+MOUNT BOYCE,06/04/2012,2.9,0.0, ,21.8,10.4,98,57,2.38,17.62
+MOUNT BOYCE,07/04/2012,4.5,0.0, ,24.0,13.9,97,23,4.26,18.97
+MOUNT BOYCE,08/04/2012,1.9,0.4, ,19.4,10.4,99,69,4.06,8.18
+MOUNT BOYCE,09/04/2012,3.1,2.2, ,14.1,4.4,83,50,7.58,18.84
+MOUNT BOYCE,10/04/2012,2.4,0.0, ,12.0,1.4,85,49,3.77,18.57
+MOUNT BOYCE,11/04/2012,1.7,0.0, ,11.8,2.4,95,68,3.26,12.91
+MOUNT BOYCE,12/04/2012,1.8,0.0, ,15.8,6.5,98,60,1.85,11.91
+MOUNT BOYCE,13/04/2012,2.7,0.2, ,19.6,8.5,97,47,2.46,17.18
+MOUNT BOYCE,14/04/2012,2.3,0.2, ,19.3,9.4,98,52,2.07,14.27
+MOUNT BOYCE,15/04/2012,2.1,0.0, ,18.0,11.4,96,43,1.26,13.43
+MOUNT BOYCE,16/04/2012,2.7,0.0, ,18.0,10.7,96,32,2.35,15.59
+MOUNT BOYCE,17/04/2012,0.9,0.0, ,12.8,8.7,98,85,3.54,4.30
+MOUNT BOYCE,18/04/2012,0.8,34.6, ,13.8,9.9,99,98,3.23,5.56
+MOUNT BOYCE,19/04/2012,1.9,52.4, ,19.3,11.9,99,68,2.09,11.12
+MOUNT BOYCE,20/04/2012,2.2,0.4, ,19.9,11.2,99,58,2.24,12.77
+MOUNT BOYCE,21/04/2012,1.9,0.2, ,19.1,12.0,98,71,1.81,13.04
+MOUNT BOYCE,22/04/2012,1.8,0.2, ,18.0,11.1,99,58,2.94,7.83
+MOUNT BOYCE,23/04/2012,1.6,3.0, ,13.4,12.2,93,61,4.69,4.08
+MOUNT BOYCE,24/04/2012,2.0,0.8, ,15.0,9.1,94,64,6.15,9.10
+MOUNT BOYCE,25/04/2012,1.8,1.4, ,9.0,2.1,89,63,9.65,11.96
+MOUNT BOYCE,26/04/2012,2.2,0.0, ,16.8,3.7,95,55,3.79,14.02
+MOUNT BOYCE,27/04/2012,2.2,0.0, ,18.0,6.1,97,45,2.24,14.85
+MOUNT BOYCE,28/04/2012,2.1,0.0, ,17.0,8.5,97,52,3.17,12.57
+MOUNT BOYCE,29/04/2012,1.7,0.0, ,12.6,6.6,96,60,3.45,11.25
+MOUNT BOYCE,30/04/2012,1.4,0.0, ,14.2,3.6,97,62,1.88,10.03
+Totals:,,68.1,105, ,,,,,, 

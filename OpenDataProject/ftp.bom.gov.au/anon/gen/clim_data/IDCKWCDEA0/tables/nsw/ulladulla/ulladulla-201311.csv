@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ULLADULLA New South Wales for November 2013,,,,,,,,,,
+Issued at 22:31 GMT on Sunday 01 December 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ULLADULLA,01/11/2013,4.4,0.0, ,20.1,13.9,87,68,3.25,28.63
+ULLADULLA,02/11/2013,5.0,0.0, ,25.6,13.6,98,52,1.84,28.86
+ULLADULLA,03/11/2013,6.3,0.2, ,29.3,14.3,100,25,5.95,17.15
+ULLADULLA,04/11/2013,5.5,0.0, ,17.0,9.8,64,38,7.45,30.36
+ULLADULLA,05/11/2013,4.7,0.0, ,18.9,11.4,79,47,3.41,29.44
+ULLADULLA,06/11/2013,5.1,0.0, ,20.7,11.3,82,56,3.58,32.61
+ULLADULLA,07/11/2013,5.2,0.0, ,24.3,14.1,84,64,2.72,31.11
+ULLADULLA,08/11/2013,4.1,0.0, ,26.0,16.2,92,51,2.13,19.85
+ULLADULLA,09/11/2013,5.5,0.4, ,25.2,19.9,77,40,5.18,19.52
+ULLADULLA,10/11/2013,2.3,0.4, ,16.4,11.4,96,58,5.52,7.68
+ULLADULLA,11/11/2013,2.4,0.6, ,17.8,11.8,96,64,5.75,9.38
+ULLADULLA,12/11/2013,3.2,0.6, ,21.1,13.1,99,70,3.21,18.24
+ULLADULLA,13/11/2013, ,0.6, , ,12.9,94,26,2.89,28.60
+ULLADULLA,14/11/2013, , , ,22.6, ,78,33,2.39,30.80
+ULLADULLA,15/11/2013,2.8,1.4, ,20.2,15.0,99,61,3.57,12.47
+ULLADULLA,16/11/2013,2.0,29.8, ,16.8,12.9,99,68,4.96,7.53
+ULLADULLA,17/11/2013,3.4,22.2, ,19.4,11.9,93,66,5.50,19.23
+ULLADULLA,18/11/2013,3.4,0.2, ,20.4,14.8,85,60,5.43,13.67
+ULLADULLA,19/11/2013,5.1,0.6, ,22.2,15.2,94,66,2.60,32.22
+ULLADULLA,20/11/2013,5.1,0.0, ,22.8,14.1,98,74,2.60,33.12
+ULLADULLA,21/11/2013,3.2,0.0, ,22.7,16.4,97,74,4.00,17.30
+ULLADULLA,22/11/2013,2.8,6.2, ,22.3,18.9,98,73,4.33,13.19
+ULLADULLA,23/11/2013,4.1,0.2, ,22.7,16.9,100,71,2.72,24.03
+ULLADULLA,24/11/2013,4.2,1.8, ,21.2,12.8,97,56,3.34,24.41
+ULLADULLA,25/11/2013,3.8,13.2, ,18.8,13.9,97,52,7.93,17.67
+ULLADULLA,26/11/2013,4.3,7.8, ,20.0,13.6,74,52,2.92,22.59
+ULLADULLA,27/11/2013,5.3,0.0, ,21.0,12.8,80,59,2.64,33.19
+ULLADULLA,28/11/2013,4.8,0.0, ,23.5,14.3,88,68,4.00,28.17
+ULLADULLA,29/11/2013,3.0,2.2, ,20.2,13.8,91,57,6.69,7.86
+ULLADULLA,30/11/2013,5.2,5.2, ,20.1,13.4,88,49,3.57,32.30
+Totals:,,116.2,93.6, ,,,,,, 

@@ -1,0 +1,37 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LISMORE AIRPORT New South Wales for February 2013,,,,,,,,,,
+Issued at 22:38 GMT on Friday 01 March 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LISMORE AIRPORT,06/02/2013,4.9,1.6, ,27.0,17.5,99,55,2.77,24.71
+LISMORE AIRPORT,07/02/2013,4.1,7.2, ,27.4,16.1,99,56,1.93,20.38
+LISMORE AIRPORT,08/02/2013,4.5,0.6, ,28.6,15.6,99,55,1.72,23.16
+LISMORE AIRPORT,09/02/2013,3.1,2.6, ,27.4,16.2,99,58,1.28,14.07
+LISMORE AIRPORT,10/02/2013,5.2,5.0, ,30.1,15.2,99,56,2.64,25.83
+LISMORE AIRPORT,11/02/2013,5.1,0.0, ,29.1,17.0,99,50,1.80,25.97
+LISMORE AIRPORT,12/02/2013,4.7,0.0, ,28.6,15.9,99,59,2.00,24.27
+LISMORE AIRPORT,13/02/2013,4.7,1.0, ,27.2,16.8,99,50,3.40,21.50
+LISMORE AIRPORT,14/02/2013,3.9,2.4, ,26.9,13.7,99,65,2.86,20.21
+LISMORE AIRPORT,15/02/2013,2.8,16.6, ,25.2,18.2,99,64,2.04,12.69
+LISMORE AIRPORT,16/02/2013,2.8,3.6, ,26.5,15.2,99,71,1.45,13.97
+LISMORE AIRPORT,17/02/2013,4.2,1.0, ,27.5,17.7,99,62,2.51,20.87
+LISMORE AIRPORT,18/02/2013,2.4,21.4, ,25.2,18.0,99,78,1.80,11.26
+LISMORE AIRPORT,19/02/2013,2.2,24.6, ,24.4,20.1,99,78,4.01,9.30
+LISMORE AIRPORT,20/02/2013,2.5,23.6, ,24.5,20.1,99,81,7.24,11.26
+LISMORE AIRPORT,21/02/2013,2.6,35.4, ,24.0,20.0,99,80,6.86,12.74
+LISMORE AIRPORT,22/02/2013,1.1,42.2, ,22.2,20.2,99,89,8.39,2.36
+LISMORE AIRPORT,23/02/2013,5.3,68.6, ,30.0,19.4,99,56,4.14,23.86
+LISMORE AIRPORT,24/02/2013,3.8,0.0, ,30.0,21.7,99,68,2.60,16.96
+LISMORE AIRPORT,25/02/2013,2.2,19.2, ,26.5,22.1,99,79,3.00,8.82
+LISMORE AIRPORT,26/02/2013,2.5,8.0, ,26.5,21.3,99,79,3.21,11.41
+LISMORE AIRPORT,27/02/2013,3.2,20.4, ,27.2,18.1,99,70,2.25,15.36
+LISMORE AIRPORT,28/02/2013,3.8,1.4, ,28.2,20.0,99,63,2.36,17.93
+Totals:,,81.6,306.4, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FOWLERS GAP New South Wales for September 2014,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 October 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FOWLERS GAP,01/09/2014,5.3,0.0, ,24.7,11.8,94,16,6.07,12.99
+FOWLERS GAP,02/09/2014,3.2,0.4, ,16.4,6.1,95,41,5.50,18.62
+FOWLERS GAP,03/09/2014,2.7,0.0, ,16.2,5.0,79,35,2.49,15.29
+FOWLERS GAP,04/09/2014,3.1,0.0, ,19.0,6.4,75,31,2.98,12.20
+FOWLERS GAP,05/09/2014,4.0,0.0, ,20.4,6.7,88,26,4.07,19.27
+FOWLERS GAP,06/09/2014,4.3,0.2, ,21.5,8.8,56,21,3.83,13.89
+FOWLERS GAP,07/09/2014,4.0,0.0, ,22.8,6.0,72,21,2.73,18.33
+FOWLERS GAP,08/09/2014,5.3,0.0, ,24.3,7.8,90,30,6.45,19.58
+FOWLERS GAP,09/09/2014,8.9,0.0, ,29.5,15.2,61,16,9.22,18.56
+FOWLERS GAP,10/09/2014,4.3,0.0, ,22.6,8.2,81,25,3.52,20.23
+FOWLERS GAP,11/09/2014,4.0,0.0, ,24.3,7.0,71,27,2.29,20.37
+FOWLERS GAP,12/09/2014,4.7,0.0, ,22.8,9.7,67,29,3.95,20.52
+FOWLERS GAP,13/09/2014,3.6,0.0, ,23.9,5.2,70,17,1.52,21.09
+FOWLERS GAP,14/09/2014,4.5,0.0, ,26.9,5.1,65,15,2.18,20.88
+FOWLERS GAP,15/09/2014,8.4,0.0, ,27.2,17.6,60,13,8.57,20.15
+FOWLERS GAP,16/09/2014,4.7,0.0, ,21.8,8.7,82,28,4.50,21.53
+FOWLERS GAP,17/09/2014,4.8,0.0, ,20.7,10.1,64,22,4.29,20.48
+FOWLERS GAP,18/09/2014,4.7,0.0, ,20.6,6.7,59,29,4.31,21.58
+FOWLERS GAP,19/09/2014,4.7,0.0, ,21.4,11.9,44,24,3.25,20.26
+FOWLERS GAP,20/09/2014,4.5,0.0, ,21.8,3.8,62,17,2.93,22.31
+FOWLERS GAP,21/09/2014,6.3,0.0, ,24.2,7.7,54,11,4.89,22.61
+FOWLERS GAP,22/09/2014,6.0,0.0, ,25.6,6.4,57,21,4.66,22.51
+FOWLERS GAP,23/09/2014,5.6,0.0, ,26.4,11.1,76,30,5.50,17.33
+FOWLERS GAP,24/09/2014,2.5,25.8, ,20.6,13.9,97,59,4.35,9.13
+FOWLERS GAP,25/09/2014,3.9,0.0, ,21.9,11.2,96,49,4.24,21.55
+FOWLERS GAP,26/09/2014,4.1,0.2, ,21.5,10.2,87,36,3.09,22.18
+FOWLERS GAP,27/09/2014,4.0,0.0, ,25.3,8.3,93,31,1.68,22.27
+FOWLERS GAP,28/09/2014,7.9,0.0, ,30.6,14.2,70,14,5.93,22.26
+FOWLERS GAP,29/09/2014,6.1,0.0, ,28.7,16.0,58,22,3.72,21.58
+FOWLERS GAP,30/09/2014,7.6,0.0, ,31.8,16.9,58,15,4.77,22.34
+Totals:,,147.7,26.6, ,,,,,, 

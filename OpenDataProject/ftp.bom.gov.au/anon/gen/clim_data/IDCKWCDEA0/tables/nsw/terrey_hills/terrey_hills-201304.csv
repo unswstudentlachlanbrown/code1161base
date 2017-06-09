@@ -1,0 +1,43 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TERREY HILLS New South Wales for April 2013,,,,,,,,,,
+Issued at 22:38 GMT on Wednesday 01 May 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TERREY HILLS,01/04/2013,3.0,17.6, ,24.1,14.9,97,59,2.04,17.41
+TERREY HILLS,02/04/2013,3.8,0.0, ,24.1,13.9,97,44,2.30,22.14
+TERREY HILLS,03/04/2013,1.6,24.8, ,17.9,15.1,98,80,2.65,8.59
+TERREY HILLS,04/04/2013,2.1,24.0, ,20.7,14.2,98,71,2.13,12.11
+TERREY HILLS,05/04/2013,2.7,13.4, ,22.0,14.3,98,60,1.75,16.86
+TERREY HILLS,06/04/2013,1.6,1.6, ,20.6,13.6,98,71,1.36,7.76
+TERREY HILLS,07/04/2013,2.6,5.4, ,22.0,12.7,98,62,1.72,16.25
+TERREY HILLS,08/04/2013,2.5,0.2, ,22.7,12.6,98,61,1.74,14.55
+TERREY HILLS,09/04/2013,2.2,0.0, ,20.9,13.9,97,75,1.73,14.66
+TERREY HILLS,10/04/2013,3.1,2.4, ,23.6,13.1,98,53,2.13,19.10
+TERREY HILLS,11/04/2013,3.4,0.0, ,24.7,14.2,92,43,1.69,20.41
+TERREY HILLS,12/04/2013,2.9,0.0, ,23.9,14.7,95,55,1.89,17.47
+TERREY HILLS,13/04/2013,3.3,0.2, ,24.1,14.7,88,52,2.43,19.67
+TERREY HILLS,14/04/2013, ,0.0, , ,14.4,100,41,2.12,19.50
+TERREY HILLS,15/04/2013, ,0.0, , , ,100,42,2.36,15.95
+TERREY HILLS,16/04/2013, ,15.8, , , ,100,94,2.73,7.21
+TERREY HILLS,18/04/2013, ,0.0, , , ,100,100,2.03,15.24
+TERREY HILLS,19/04/2013, ,2.0, , , ,100,45,5.06,16.61
+TERREY HILLS,20/04/2013, ,27.0, ,16.3, ,98,72,4.85,3.36
+TERREY HILLS,21/04/2013,2.5,35.8, ,19.2,10.2,93,54,2.68,16.70
+TERREY HILLS,22/04/2013,2.9,0.0, ,22.6,12.8,86,44,2.30,16.77
+TERREY HILLS,23/04/2013,2.9,0.0, ,22.5,11.1,76,46,2.41,16.94
+TERREY HILLS,24/04/2013,3.1,0.0, ,21.7,10.5,82,33,2.42,18.06
+TERREY HILLS,25/04/2013,2.8,0.0, ,20.6,10.8,86,46,2.51,17.61
+TERREY HILLS,26/04/2013,3.3,0.0, ,24.9,10.6,76,38,2.47,17.34
+TERREY HILLS,27/04/2013,3.1,0.0, ,24.0,11.9,87,42,2.60,17.19
+TERREY HILLS,28/04/2013,3.4,0.0, ,26.6,14.4,71,30,2.14,17.26
+TERREY HILLS,29/04/2013,2.9,0.0, ,25.8,14.7,95,40,1.96,16.23
+TERREY HILLS,30/04/2013,1.8,0.0, ,21.8,16.9,97,73,1.89,10.66
+Totals:,,63.5,170.2, ,,,,,, 

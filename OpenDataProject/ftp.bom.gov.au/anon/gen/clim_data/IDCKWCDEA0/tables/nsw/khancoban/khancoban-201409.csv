@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KHANCOBAN New South Wales for September 2014,,,,,,,,,,
+Issued at 22:31 GMT on Wednesday 01 October 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KHANCOBAN,01/09/2014,2.5,0.0, ,19.7,2.1,100,44,2.37,15.16
+KHANCOBAN,02/09/2014,1.6,7.8, ,14.4,7.3,100,51,2.00,8.18
+KHANCOBAN,03/09/2014,2.4,0.4, ,14.3,-1.1,100,39,3.16,17.03
+KHANCOBAN,04/09/2014,2.0,0.0, ,16.5,-1.6,100,41,1.21,16.34
+KHANCOBAN,05/09/2014,2.1,0.0, ,17.6,0.4,100,39,1.33,15.96
+KHANCOBAN,06/09/2014,2.2,0.0, ,18.8,0.7,100,35,0.88,17.63
+KHANCOBAN,07/09/2014,2.2,0.0, ,20.0,1.2,100,34,0.64,17.93
+KHANCOBAN,08/09/2014,2.4,0.0, ,19.2,1.9,100,45,1.48,17.64
+KHANCOBAN,09/09/2014,1.5,0.0, ,16.8,7.6,100,57,2.87,3.32
+KHANCOBAN,10/09/2014,1.9,29.0, ,17.1,9.6,100,58,2.51,9.38
+KHANCOBAN,11/09/2014,1.3,0.0, ,15.2,7.9,100,64,1.93,4.88
+KHANCOBAN,12/09/2014,2.3,0.2, ,17.1,2.0,100,39,0.91,18.77
+KHANCOBAN,13/09/2014,2.3,0.0, ,18.3,1.9,100,49,0.88,18.48
+KHANCOBAN,14/09/2014,2.5,0.0, ,18.8,4.3,100,44,1.40,18.38
+KHANCOBAN,15/09/2014,2.2,0.2, ,20.1,2.6,100,39,0.83,14.87
+KHANCOBAN,16/09/2014, ,0.0, , ,7.1,100,62,1.98,11.09
+KHANCOBAN,17/09/2014, , , ,14.5, ,100,52,2.81,13.71
+KHANCOBAN,18/09/2014,2.0,0.0, ,14.2,2.4,100,50,1.26,14.64
+KHANCOBAN,19/09/2014,2.5,0.4, ,16.4,-0.4,100,45,1.29,20.30
+KHANCOBAN,20/09/2014,2.7,0.0, ,18.7,1.2,100,33,1.10,20.46
+KHANCOBAN,21/09/2014,2.7,0.0, ,19.5,1.8,100,37,0.89,20.76
+KHANCOBAN,22/09/2014,2.9,0.0, ,21.6,2.6,100,29,0.97,20.94
+KHANCOBAN,23/09/2014,2.9,0.0, ,23.5,3.5,100,26,0.84,19.38
+KHANCOBAN,24/09/2014,1.4,0.0, ,16.3,4.7,100,59,0.74,7.30
+KHANCOBAN,25/09/2014,2.0,27.4, ,19.5,10.8,100,52,1.69,8.81
+KHANCOBAN,26/09/2014,2.3,2.2, ,16.7,3.9,100,63,1.71,16.61
+KHANCOBAN,27/09/2014,2.4,0.2, ,19.2,3.9,100,48,1.04,15.66
+KHANCOBAN,28/09/2014,3.2,0.2, ,22.3,5.3,100,48,1.50,20.41
+KHANCOBAN,29/09/2014,3.6,0.0, ,22.7,8.1,100,35,2.12,20.66
+KHANCOBAN,30/09/2014,4.4,0.0, ,22.8,4.3,100,36,5.08,19.20
+Totals:,,66.4,68, ,,,,,, 

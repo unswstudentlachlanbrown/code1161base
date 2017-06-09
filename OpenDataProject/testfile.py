@@ -1,25 +1,27 @@
 import os
+print os.getcwd()
+for root, dirs, files in os.walk(os.getcwd()):
+    print root
+    print dirs
+    print files
 
 
-def recursiveFileSearch(scope):
-    """Search through a directory recursively for folders in that directory.
-
-    Returns a list of lists that has each weather station and it's directory.
-    e.g. [['bega', '/australia/nsw/bega'], ['ger','/australia/qld/ger'], ...]
-    """
-    # sub = subFolderList  ///  n = name
-    print('runningRecFunc')
-    sub = [os.path.abspath(n) for n in os.listdir(scope) if os.path.isdir(n)]
-    if sub == []:
-        print('\nRunning the end case\n')
-        return [scope.split('/')[-2], scope]
-    else:
-        print('\nRunning the recursive case\n')
-        folderList = []
-        for folder in sub:
-            print(scope + folder + '/')
-            folderList.append(recursiveFileSearch(folder + '/'))
-        return folderList
 
 
-print ("\n\nHere's the end result:\n\n" + str(recursiveFileSearch('.')))
+
+
+
+
+
+# for subfolder in dirs:
+#    directories.append(listFiles(os.path.join(root, subfolder)))
+
+def findSpectLetterValue(spectLetter):
+    letters = ['M', 'K', 'G', 'F', 'A', 'B', 'O']
+    letterOrder = zip(range(len(letters)), letters)
+    for letter in letterOrder:
+        if letter[1] == spectLetter[0]:
+            return (letter[0]*10 + int(spectLetter[1]))
+
+hygData['spectNumber'] = [findSpectLetterValue(spectValue) for spectValue in hygData['spect']]
+y = hyg_data['spect']

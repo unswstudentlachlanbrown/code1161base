@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for June 2011,,,,,,,,,,
+Issued at 22:34 GMT on Friday 01 July 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/06/2011,2.4,0.0, ,23.0,3.7,99,46,3.37,12.45
+HAY AIRPORT,02/06/2011,2.1,0.0, ,21.7,3.4,99,45,2.83,12.53
+HAY AIRPORT,03/06/2011,2.5,0.0, ,23.0,4.6,99,42,3.49,11.50
+HAY AIRPORT,04/06/2011,1.4,2.6, ,17.3,11.2,99,63,3.21,9.24
+HAY AIRPORT,05/06/2011,0.8,0.0, ,15.4,3.0,100,85,3.55,8.06
+HAY AIRPORT,06/06/2011,1.5,1.0, ,14.1,4.1,99,46,2.89,12.79
+HAY AIRPORT,07/06/2011,1.7,0.0, ,16.0,0.1,99,59,4.76,10.31
+HAY AIRPORT,08/06/2011,1.6,0.8, ,12.5,-0.3,99,54,5.29,12.49
+HAY AIRPORT,09/06/2011,1.6,0.0, ,15.0,0.9,99,60,5.09,11.26
+HAY AIRPORT,10/06/2011,1.9,0.0, ,16.2,1.2,99,53,5.03,12.19
+HAY AIRPORT,11/06/2011,1.6,0.0, ,16.2,-3.9,99,46,2.72,12.27
+HAY AIRPORT,12/06/2011,1.8,0.0, ,17.5,-2.3,99,46,3.09,12.10
+HAY AIRPORT,13/06/2011,1.7,0.0, ,17.5,-1.6,99,49,3.23,10.47
+HAY AIRPORT,14/06/2011,2.1,0.0, ,18.3,-0.7,99,42,3.77,12.09
+HAY AIRPORT,15/06/2011,2.0,0.0, ,18.8,-1.7,99,38,2.87,12.08
+HAY AIRPORT,16/06/2011,1.6,0.0, ,18.4,-0.1,99,55,2.84,10.73
+HAY AIRPORT,17/06/2011,2.5,0.0, ,16.7,3.0,99,45,7.02,11.50
+HAY AIRPORT,18/06/2011,1.5,0.0, ,17.1,4.9,99,67,4.86,11.58
+HAY AIRPORT,19/06/2011,1.6,0.2, ,16.5,8.0,99,55,4.01,6.96
+HAY AIRPORT,20/06/2011,3.1,0.0, ,20.9,8.0,85,46,6.64,11.56
+HAY AIRPORT,21/06/2011,2.0,1.6, ,14.1,7.0,99,53,8.57,11.56
+HAY AIRPORT,22/06/2011,1.8,0.0, ,15.7,4.3,99,58,5.94,10.39
+HAY AIRPORT,23/06/2011,1.6,0.2, ,16.3,7.3,99,59,4.39,8.88
+HAY AIRPORT,24/06/2011,1.2,0.0, ,18.7,4.9,99,59,1.68,10.03
+HAY AIRPORT,25/06/2011,1.8,0.0, ,19.7,2.8,99,42,2.66,11.85
+HAY AIRPORT,26/06/2011,2.1,0.0, ,19.5,3.9,99,37,3.17,12.06
+HAY AIRPORT,27/06/2011,1.8,0.0, ,19.7,0.3,99,44,2.73,11.90
+HAY AIRPORT,28/06/2011,2.0,0.0, ,19.4,-1.2,99,39,2.78,12.05
+HAY AIRPORT,29/06/2011,2.6,0.2, ,21.9,3.3,97,44,4.40,11.51
+HAY AIRPORT,30/06/2011,2.0,0.0, ,19.7,4.1,99,49,3.72,11.40
+Totals:,,55.9,6.6, ,,,,,, 

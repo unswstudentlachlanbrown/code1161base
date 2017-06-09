@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOSS VALE New South Wales for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOSS VALE,01/11/2009,6.9,0.0, ,30.1,11.5,92,27,4.15,28.66
+MOSS VALE,02/11/2009,5.8,0.0, ,30.6,12.4,93,33,2.77,25.08
+MOSS VALE,03/11/2009,9.1,0.6, ,32.0,15.7,93,18,7.92,26.89
+MOSS VALE,04/11/2009,3.3,0.0, ,17.1,12.7,93,50,3.66,17.10
+MOSS VALE,05/11/2009,2.3,0.4, ,14.4,10.0,94,82,4.43,15.90
+MOSS VALE,06/11/2009,2.6,2.4, ,14.9,10.4,93,72,4.95,16.95
+MOSS VALE,07/11/2009,3.2,1.0, ,18.7,10.7,93,65,4.90,17.61
+MOSS VALE,08/11/2009,3.7,0.0, ,19.8,10.4,93,67,4.60,23.41
+MOSS VALE,09/11/2009,6.2,0.0, ,25.3,14.4,91,38,3.99,31.52
+MOSS VALE,10/11/2009,6.0,0.2, ,28.3,5.8,94,14,1.82,31.99
+MOSS VALE,11/11/2009,6.1,0.2, ,26.7,5.1,94,14,2.35,31.85
+MOSS VALE,12/11/2009, ,0.2, ,33.5,8.1,94,17,4.25, 
+MOSS VALE,13/11/2009,3.9,1.4, ,17.5,13.6,93,67,4.47,25.33
+MOSS VALE,14/11/2009,6.8,0.2, ,31.0,2.5,94,11,2.35,32.26
+MOSS VALE,15/11/2009,5.1,0.0, ,23.9,10.0,93,54,3.55,29.34
+MOSS VALE,16/11/2009, ,0.2, ,34.1,14.2,93,15,5.28, 
+MOSS VALE,17/11/2009, ,0.4, ,20.7,11.9,93,49,4.76, 
+MOSS VALE,18/11/2009, ,0.4, ,26.7,11.9,92,39,4.94, 
+MOSS VALE,19/11/2009, ,0.0, ,36.7,13.0,91,14,3.73, 
+MOSS VALE,20/11/2009, ,0.0, ,37.9,16.2,86,13,5.36, 
+MOSS VALE,21/11/2009, ,0.0, ,30.6,15.6,83,30,3.38, 
+MOSS VALE,22/11/2009, ,0.0, ,35.6,15.4,91,17,8.40, 
+MOSS VALE,23/11/2009, ,0.0, ,15.5,12.0,92,58,5.20, 
+MOSS VALE,24/11/2009, ,2.8, ,20.5,11.3,92,64,4.12, 
+MOSS VALE,25/11/2009, ,0.0, ,30.8,12.7,92,33,3.83, 
+MOSS VALE,26/11/2009, ,0.0, ,30.1,15.7,90,41,5.28, 
+MOSS VALE,27/11/2009, ,14.2, ,26.5,14.4,88,34,7.04, 
+MOSS VALE,28/11/2009,9.8,0.0, ,32.9,12.6,86,17,7.01,31.76
+MOSS VALE,29/11/2009,7.1,0.0, ,22.9,14.1,70,28,7.86,27.43
+MOSS VALE,30/11/2009,4.3,3.6, ,18.3,11.2,88,53,6.60,23.46
+Totals:,,92.2,28.2, ,,,,,, 

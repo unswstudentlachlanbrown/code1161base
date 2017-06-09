@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COOMA AIRPORT New South Wales for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COOMA AIRPORT,01/11/2009,6.5,0.0, ,29.9,8.5,99,28,3.93,27.32
+COOMA AIRPORT,02/11/2009,6.4,0.0, ,29.8,11.0,99,28,4.03,25.72
+COOMA AIRPORT,03/11/2009,7.6,0.0, ,26.3,14.2,75,24,7.64,26.67
+COOMA AIRPORT,04/11/2009,5.5,0.2, ,22.4,5.3,99,23,3.55,29.61
+COOMA AIRPORT,05/11/2009,4.7,0.0, ,19.5,5.2,95,38,4.99,26.89
+COOMA AIRPORT,06/11/2009,5.8,0.0, ,22.6,9.0,93,35,5.33,30.16
+COOMA AIRPORT,07/11/2009,6.0,0.0, ,24.2,5.2,99,26,4.16,31.18
+COOMA AIRPORT,08/11/2009,6.2,0.0, ,27.3,7.2,99,21,2.88,31.14
+COOMA AIRPORT,09/11/2009,6.5,0.0, ,28.2,4.0,98,13,2.81,31.53
+COOMA AIRPORT,10/11/2009,7.3,0.0, ,30.2,5.2,86,11,3.12,31.89
+COOMA AIRPORT,11/11/2009,6.8,0.0, ,30.7,4.1,81,14,2.54,31.12
+COOMA AIRPORT,12/11/2009, ,0.0, ,32.0,8.8,96,17,4.04, 
+COOMA AIRPORT,13/11/2009,6.0,0.8, ,25.1,10.7,95,23,3.16,30.07
+COOMA AIRPORT,14/11/2009,7.8,0.0, ,31.3,5.8,99,9,3.74,31.16
+COOMA AIRPORT,15/11/2009,6.8,0.0, ,29.6,8.5,97,26,3.70,29.42
+COOMA AIRPORT,16/11/2009, ,0.0, ,28.9,10.9,99,21,6.75, 
+COOMA AIRPORT,17/11/2009, ,0.0, ,22.7,5.3,92,30,5.35, 
+COOMA AIRPORT,18/11/2009, ,0.0, ,31.0,8.9,91,10,4.63, 
+COOMA AIRPORT,19/11/2009, ,0.0, ,31.8,13.6,65,16,4.68, 
+COOMA AIRPORT,20/11/2009, ,0.0, ,34.4,11.4,72,15,5.82, 
+COOMA AIRPORT,21/11/2009, ,0.0, ,26.1,17.1,99,42,3.55, 
+COOMA AIRPORT,22/11/2009, ,3.2, ,25.7,14.5,99,37,5.80, 
+COOMA AIRPORT,23/11/2009, ,0.0, ,19.6,9.6,88,36,3.82, 
+COOMA AIRPORT,24/11/2009, ,0.0, ,21.9,9.8,90,49,4.95, 
+COOMA AIRPORT,25/11/2009, ,0.0, ,29.8,11.1,91,34,4.22, 
+COOMA AIRPORT,26/11/2009, ,0.0, ,31.7,12.5,99,21,5.32, 
+COOMA AIRPORT,27/11/2009, ,1.2, ,24.6,13.1,88,40,5.48, 
+COOMA AIRPORT,28/11/2009,7.6,0.0, ,26.0,10.7,93,18,6.30,31.90
+COOMA AIRPORT,29/11/2009,4.5,0.0, ,19.1,8.0,95,38,4.79,23.35
+COOMA AIRPORT,30/11/2009,3.7,1.6, ,15.7,8.6,98,43,7.08,18.37
+Totals:,,105.7,7, ,,,,,, 

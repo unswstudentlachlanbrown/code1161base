@@ -1,0 +1,42 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PENRITH LAKES New South Wales for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PENRITH LAKES,01/02/2016,3.2,0.2, ,26.7,18.7,80,56,1.49,12.84
+PENRITH LAKES,02/02/2016,5.6,0.2, ,29.8,15.5,91,42,1.53,29.11
+PENRITH LAKES,03/02/2016,5.4,0.0, ,32.5,17.5,90,44,1.97,23.88
+PENRITH LAKES,04/02/2016,3.1,1.0, ,24.9,18.7,91,56,4.76,6.85
+PENRITH LAKES,05/02/2016,5.0,0.0, ,25.9,18.5,71,49,4.83,16.56
+PENRITH LAKES,06/02/2016,3.8,0.0, ,26.9,18.4,83,56,3.12,13.89
+PENRITH LAKES,07/02/2016,4.4,0.0, ,28.4,17.6,89,54,1.39,22.07
+PENRITH LAKES,08/02/2016,5.8,0.0, ,31.0,16.8,91,42,1.60,29.11
+PENRITH LAKES,09/02/2016,4.9,0.0, ,28.5,19.6,82,52,2.19,22.49
+PENRITH LAKES,10/02/2016,5.8,0.0, ,32.1,17.5,88,38,1.57,28.12
+PENRITH LAKES,11/02/2016,4.7,0.0, ,30.9,17.9,89,46,1.49,22.10
+PENRITH LAKES,12/02/2016,5.7,0.0, ,32.0,19.8,91,42,1.98,26.54
+PENRITH LAKES,13/02/2016, ,0.0, , ,19.3, , , ,27.47
+PENRITH LAKES,15/02/2016, , , , , , , , ,23.29
+PENRITH LAKES,16/02/2016, , , ,29.6, , , , ,21.35
+PENRITH LAKES,17/02/2016,4.8,0.0, ,28.2,17.7,76,43,1.99,22.36
+PENRITH LAKES,18/02/2016,5.3,0.0, ,29.6,16.0,80,41,2.05,25.50
+PENRITH LAKES,19/02/2016,5.9,0.0, ,34.8,18.8,83,36,1.71,26.62
+PENRITH LAKES,20/02/2016,4.0,0.0, ,29.6,23.4,85,58,3.20,13.91
+PENRITH LAKES,21/02/2016,3.9,0.4, ,30.6,20.6,88,56,2.03,15.73
+PENRITH LAKES,22/02/2016,5.5,0.0, ,32.5,19.9,92,41,1.89,25.55
+PENRITH LAKES,23/02/2016,5.5,0.0, ,33.6,19.2,90,32,1.45,25.56
+PENRITH LAKES,24/02/2016,5.8,0.0, ,37.5,18.4,91,24,1.69,23.42
+PENRITH LAKES,25/02/2016,6.5,0.0, ,42.2,19.7,90,16,1.49,25.87
+PENRITH LAKES,26/02/2016,3.2,0.0, ,28.4,22.4,80,54,2.65,9.04
+PENRITH LAKES,27/02/2016,3.8,0.0, ,30.0,21.1,87,50,2.55,13.53
+PENRITH LAKES,28/02/2016,4.9,0.0, ,31.0,18.7,86,38,1.31,24.75
+PENRITH LAKES,29/02/2016,3.6,0.0, ,28.7,18.1,84,54,1.54,16.62
+Totals:,,120.1,1.8, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WHITE CLIFFS New South Wales for May 2011,,,,,,,,,,
+Issued at 22:35 GMT on Wednesday 01 June 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WHITE CLIFFS,01/05/2011,3.5,0.0, ,25.5,12.2,66,31,2.69,13.93
+WHITE CLIFFS,02/05/2011,3.7,0.0, ,24.0,14.5,73,41,4.00,13.12
+WHITE CLIFFS,03/05/2011,3.7,0.0, ,22.4,14.4,80,44,4.80,17.10
+WHITE CLIFFS,04/05/2011,3.7,0.0, ,21.2,8.4,80,40,4.85,18.05
+WHITE CLIFFS,05/05/2011,3.7,0.0, ,20.9,8.4,82,41,5.13,18.03
+WHITE CLIFFS,06/05/2011,3.5,0.0, ,22.2,7.9,77,32,3.41,17.43
+WHITE CLIFFS,07/05/2011,3.4,0.0, ,22.8,6.2,78,26,2.81,17.08
+WHITE CLIFFS,08/05/2011,3.3,0.0, ,21.7,7.7,73,35,3.42,16.75
+WHITE CLIFFS,09/05/2011, ,0.0, , ,7.1,77,44,5.25,16.75
+WHITE CLIFFS,10/05/2011, , , , , ,78,32,4.42,17.36
+WHITE CLIFFS,11/05/2011, , , , , ,73,36,4.89,16.70
+WHITE CLIFFS,12/05/2011, , , , , ,88,49,4.53,14.54
+WHITE CLIFFS,13/05/2011, , , , , ,84,43,4.26,13.75
+WHITE CLIFFS,14/05/2011, , , , , ,88,31,5.28,16.95
+WHITE CLIFFS,15/05/2011, , , , , ,82,35,4.29,16.73
+WHITE CLIFFS,16/05/2011, , , , , ,86,34,3.80,16.70
+WHITE CLIFFS,17/05/2011, , , ,19.8, ,83,28,2.99,16.63
+WHITE CLIFFS,18/05/2011,3.5,0.0, ,21.3,7.6,64,24,3.52,15.12
+WHITE CLIFFS,19/05/2011,4.2,0.0, ,24.5,4.8,62,19,3.68,16.10
+WHITE CLIFFS,20/05/2011,4.0,0.0, ,25.7,11.3,56,26,3.48,15.21
+WHITE CLIFFS,21/05/2011,4.0,0.0, ,26.3,10.7,68,29,3.63,15.38
+WHITE CLIFFS,22/05/2011,4.0,0.0, ,25.5,17.8,89,42,6.76,8.88
+WHITE CLIFFS,23/05/2011,2.8,2.2, ,19.5,8.4,96,50,6.20,13.97
+WHITE CLIFFS,24/05/2011,1.8,6.2, ,14.7,7.3,94,66,5.57,13.73
+WHITE CLIFFS,25/05/2011,2.3,6.6, ,15.0,6.6,94,54,5.62,15.37
+WHITE CLIFFS,26/05/2011,1.9,0.2, ,12.7,7.0,83,54,4.57,10.98
+WHITE CLIFFS,27/05/2011,1.7,0.0, ,15.2,3.3,94,53,3.21,11.12
+WHITE CLIFFS,28/05/2011,1.8,0.0, ,14.8,5.2,94,53,3.31,11.80
+WHITE CLIFFS,29/05/2011,1.9,0.0, ,15.6,6.0,94,53,3.80,13.23
+WHITE CLIFFS,30/05/2011,2.7,0.0, ,16.8,4.4,90,45,5.62,14.81
+WHITE CLIFFS,31/05/2011,3.1,0.0, ,19.6,5.1,89,40,5.40,14.41
+Totals:,,68.2,15.2, ,,,,,, 

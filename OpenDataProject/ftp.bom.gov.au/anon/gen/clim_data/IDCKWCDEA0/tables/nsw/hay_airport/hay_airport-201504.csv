@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for April 2015,,,,,,,,,,
+Issued at 22:31 GMT on Friday 01 May 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/04/2015,7.2,0.0, ,32.5,16.2,50,24,5.32,17.01
+HAY AIRPORT,02/04/2015,5.3,0.0, ,23.4,17.9,71,23,6.17,11.84
+HAY AIRPORT,03/04/2015,4.3,0.0, ,24.4,3.9,75,17,2.88,17.93
+HAY AIRPORT,04/04/2015,2.2,0.2, ,21.3,9.9,96,32,2.23,3.83
+HAY AIRPORT,05/04/2015,3.1,4.0, ,26.3,11.1,99,31,1.50,16.43
+HAY AIRPORT,06/04/2015,3.7,0.0, ,23.1,13.1,91,33,3.84,14.34
+HAY AIRPORT,07/04/2015,1.3,2.4, ,14.6,9.5,97,80,7.01,5.76
+HAY AIRPORT,08/04/2015,4.0,3.0, ,21.0,7.3,90,43,6.69,17.73
+HAY AIRPORT,09/04/2015, ,0.0, , ,6.7,97,34,3.66,17.64
+HAY AIRPORT,10/04/2015, , , ,24.8, ,89,31,3.43,17.18
+HAY AIRPORT,11/04/2015,3.8,0.0, ,26.6,7.8,79,27,2.40,16.83
+HAY AIRPORT,12/04/2015,2.9,0.0, ,25.9,11.1,72,34,1.87,10.97
+HAY AIRPORT,13/04/2015,4.1,0.0, ,27.5,8.2,79,25,2.73,16.37
+HAY AIRPORT,14/04/2015,5.9,0.0, ,30.8,16.4,53,18,4.18,14.71
+HAY AIRPORT,15/04/2015,7.5,0.0, ,33.9,18.7,52,17,5.49,14.66
+HAY AIRPORT,16/04/2015,4.0,0.0, ,25.7,13.5,79,36,4.09,13.09
+HAY AIRPORT,17/04/2015,1.5,6.2, ,19.8,14.1,99,65,3.11,3.31
+HAY AIRPORT,18/04/2015,1.4,18.2, ,17.6,14.9,99,76,5.27,4.31
+HAY AIRPORT,19/04/2015,3.3,4.2, ,16.8,9.7,98,40,8.09,15.84
+HAY AIRPORT,20/04/2015,3.9,0.0, ,18.1,6.0,82,35,7.00,16.16
+HAY AIRPORT,21/04/2015,3.5,0.0, ,19.6,5.6,88,36,5.32,15.57
+HAY AIRPORT,22/04/2015,3.7,0.0, ,23.0,6.8,87,36,4.57,14.59
+HAY AIRPORT,23/04/2015,2.9,0.0, ,23.1,10.0,98,46,3.61,12.18
+HAY AIRPORT,24/04/2015,3.0,0.0, ,21.3,12.1,88,45,4.33,12.18
+HAY AIRPORT,25/04/2015,1.3,0.6, ,14.4,8.9,98,70,3.49,5.72
+HAY AIRPORT,26/04/2015,2.2,10.2, ,15.8,8.0,97,60,6.48,12.33
+HAY AIRPORT,27/04/2015,2.5,0.0, ,17.4,5.9,91,50,4.70,12.39
+HAY AIRPORT,28/04/2015,2.5,0.0, ,17.9,6.8,92,43,3.67,12.22
+HAY AIRPORT,29/04/2015,2.9,0.0, ,21.1,8.1,84,35,3.31,11.37
+HAY AIRPORT,30/04/2015,3.3,0.0, ,22.6,9.4,87,42,4.55,13.43
+Totals:,,97.2,49, ,,,,,, 

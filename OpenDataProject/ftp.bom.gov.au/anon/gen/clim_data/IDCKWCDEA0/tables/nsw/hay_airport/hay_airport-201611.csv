@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for November 2016,,,,,,,,,,
+Issued at 22:31 GMT on Thursday 01 December 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/11/2016,5.1,0.0, ,21.6,4.9,85,29,4.41,25.11
+HAY AIRPORT,02/11/2016,5.0,0.0, ,22.5,5.5,93,33,3.70,26.60
+HAY AIRPORT,03/11/2016,5.3,0.0, ,25.8,5.7,92,26,2.72,26.61
+HAY AIRPORT,04/11/2016,9.6,0.0, ,33.0,8.5,83,8,6.05,26.52
+HAY AIRPORT,05/11/2016,6.8,0.0, ,22.5,9.3,75,22,8.06,25.81
+HAY AIRPORT,06/11/2016,6.0,0.0, ,24.4,8.7,72,34,5.09,26.47
+HAY AIRPORT,07/11/2016,9.7,0.0, ,33.5,12.3,73,8,6.61,21.49
+HAY AIRPORT,08/11/2016,3.6,0.0, ,21.7,15.5,76,32,3.68,7.25
+HAY AIRPORT,09/11/2016,5.9,0.4, ,27.0,7.7,85,22,3.19,26.27
+HAY AIRPORT,10/11/2016,6.6,0.2, ,29.5,8.8,86,21,3.74,25.62
+HAY AIRPORT,11/11/2016,7.8,0.0, ,34.3,10.1,99,17,4.17,24.52
+HAY AIRPORT,12/11/2016,7.5,17.4, ,28.0,17.5,99,27,7.98,27.14
+HAY AIRPORT,13/11/2016,3.5,0.2, ,18.0,12.8,91,48,9.74,8.90
+HAY AIRPORT,14/11/2016,6.1,1.2, ,22.7,11.7,86,33,8.41,24.70
+HAY AIRPORT,15/11/2016,5.8,0.0, ,24.8,7.2,94,32,4.70,27.13
+HAY AIRPORT,16/11/2016,5.7,0.0, ,28.8,7.9,97,24,2.19,27.61
+HAY AIRPORT,17/11/2016,8.0,0.0, ,34.9,10.5,85,16,3.64,27.46
+HAY AIRPORT,18/11/2016,10.7,0.0, ,38.2,18.8,56,10,5.84,22.62
+HAY AIRPORT,19/11/2016,8.6,0.0, ,35.9,15.6,84,11,4.05,26.75
+HAY AIRPORT,20/11/2016,10.0,0.0, ,38.3,20.6,58,14,5.41,22.04
+HAY AIRPORT,21/11/2016,14.0,0.0, ,40.9,22.5,56,9,8.40,27.10
+HAY AIRPORT,22/11/2016,5.6,0.0, ,30.2,21.6,96,33,5.99,12.54
+HAY AIRPORT,23/11/2016,5.3,9.6, ,21.6,12.5,99,30,6.95,21.24
+HAY AIRPORT,24/11/2016,5.9,0.0, ,23.5,6.2,93,27,4.91,28.34
+HAY AIRPORT,25/11/2016,6.3,0.0, ,25.1,7.9,94,27,5.10,28.40
+HAY AIRPORT,26/11/2016,6.8,0.0, ,26.3,7.2,95,22,5.17,28.39
+HAY AIRPORT,27/11/2016,6.8,0.0, ,28.3,7.8,92,16,3.73,28.46
+HAY AIRPORT,28/11/2016,7.7,0.0, ,31.7,10.0,82,11,3.64,28.17
+HAY AIRPORT,29/11/2016,6.9,0.0, ,34.8,11.7,74,11,2.44,24.68
+HAY AIRPORT,30/11/2016, ,0.0, , ,13.3,68,12,5.37,21.60
+Totals:,,202.6,29, ,,,,,, 

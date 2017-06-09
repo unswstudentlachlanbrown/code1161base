@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TERREY HILLS New South Wales for January 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 February 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TERREY HILLS,01/01/2011,7.7,0.2, ,33.6,18.9,95,29,2.58,34.34
+TERREY HILLS,02/01/2011,5.5,0.0, ,27.2,17.9,98,66,2.89,29.84
+TERREY HILLS,03/01/2011,2.2,7.4, ,20.2,16.9,97,79,2.35,10.85
+TERREY HILLS,04/01/2011,2.8,2.2, ,20.1,15.8,95,67,2.57,13.71
+TERREY HILLS,05/01/2011,4.2,0.0, ,22.9,14.8,90,65,1.64,23.46
+TERREY HILLS,06/01/2011,5.2,0.0, ,24.7,17.6,94,61,3.09,28.43
+TERREY HILLS,07/01/2011,4.3,4.0, ,25.7,17.9,97,69,2.71,22.17
+TERREY HILLS,08/01/2011,5.5,2.0, ,26.3,19.2,97,61,2.41,29.63
+TERREY HILLS,09/01/2011,4.6,12.0, ,26.3,20.4,98,73,3.59,24.49
+TERREY HILLS,10/01/2011,4.0,9.8, ,25.2,20.2,98,73,4.19,20.48
+TERREY HILLS,11/01/2011, ,4.6, , ,19.7, , , ,13.11
+TERREY HILLS,12/01/2011, , , , , , , , ,25.41
+TERREY HILLS,13/01/2011, , , , ,21.5,89,65,4.17,27.96
+TERREY HILLS,14/01/2011, , , , , , , , ,30.96
+TERREY HILLS,15/01/2011, , , , , ,94,68,1.33,21.46
+TERREY HILLS,16/01/2011, , , , , , , , ,20.73
+TERREY HILLS,17/01/2011, , , , , , , , ,29.55
+TERREY HILLS,18/01/2011,3.9, , ,24.0,18.2,91,65,2.77,19.50
+TERREY HILLS,19/01/2011,3.5,1.6, ,24.4,18.4,96,75,2.26,18.46
+TERREY HILLS,20/01/2011,5.7,0.2, ,26.4,19.1,84,58,3.37,29.08
+TERREY HILLS,21/01/2011,6.0,0.0, ,27.5,18.1,92,56,2.14,32.27
+TERREY HILLS,22/01/2011,6.6,0.0, ,28.4,18.5,90,37,2.43,32.65
+TERREY HILLS,23/01/2011,6.5,0.0, ,28.9,18.7,88,47,3.07,31.73
+TERREY HILLS,24/01/2011,6.6,0.0, ,34.3,18.7,89,32,3.64,22.44
+TERREY HILLS,25/01/2011, ,0.0, , ,20.4,94,60,2.10,30.30
+TERREY HILLS,26/01/2011,5.8,0.0, ,32.3,20.9,96,52,1.79,27.07
+TERREY HILLS,27/01/2011,5.1,0.0, ,28.6,20.9,96,67,2.33,25.37
+TERREY HILLS,28/01/2011,3.8,1.4, ,23.9,19.5,94,67,3.16,18.57
+TERREY HILLS,29/01/2011,5.1,1.0, ,24.7,16.9,91,52,2.35,27.34
+TERREY HILLS,30/01/2011,6.6,0.0, ,29.4,16.6,85,39,2.63,32.47
+TERREY HILLS,31/01/2011,7.2,0.0, ,34.7,20.5,93,35,2.24,31.70
+Totals:,,118.4,46.4, ,,,,,, 

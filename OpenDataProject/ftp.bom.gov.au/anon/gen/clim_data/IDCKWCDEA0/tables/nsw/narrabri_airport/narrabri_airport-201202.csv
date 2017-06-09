@@ -1,0 +1,38 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NARRABRI AIRPORT New South Wales for February 2012,,,,,,,,,,
+Issued at 22:33 GMT on Thursday 01 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NARRABRI AIRPORT,06/02/2012, , , , , ,100,50,2.53,28.60
+NARRABRI AIRPORT,07/02/2012, , , , , ,100,37,1.76,27.23
+NARRABRI AIRPORT,08/02/2012, , , , , ,100,29,2.30,28.02
+NARRABRI AIRPORT,09/02/2012, , , , , ,100,37,2.72,24.57
+NARRABRI AIRPORT,10/02/2012, , , , , ,100,30,2.38,25.75
+NARRABRI AIRPORT,11/02/2012, , , , , ,100,35,2.56,24.06
+NARRABRI AIRPORT,12/02/2012, , , , , ,100,24,1.88,28.88
+NARRABRI AIRPORT,13/02/2012, ,0.0, , , ,100,22,1.91,27.68
+NARRABRI AIRPORT,14/02/2012, ,0.0, ,31.4, ,75,26,4.14,27.52
+NARRABRI AIRPORT,15/02/2012,6.5,0.0, ,30.9,17.6,79,30,3.41,25.70
+NARRABRI AIRPORT,16/02/2012,5.9,0.0, ,30.8,15.2,95,33,2.44,27.23
+NARRABRI AIRPORT,17/02/2012,6.0,0.0, ,31.9,15.3,86,29,2.23,27.18
+NARRABRI AIRPORT,18/02/2012,6.7,0.0, ,33.3,16.0,86,32,3.25,26.97
+NARRABRI AIRPORT,19/02/2012,6.6,0.6, ,33.9,19.0,95,33,3.55,25.23
+NARRABRI AIRPORT,20/02/2012,7.7,0.0, ,35.2,21.2,100,25,5.79,21.39
+NARRABRI AIRPORT,21/02/2012,5.8,16.6, ,29.6,20.2,100,25,3.65,22.19
+NARRABRI AIRPORT,22/02/2012,3.5,0.0, ,25.5,17.2,85,59,4.28,12.03
+NARRABRI AIRPORT,23/02/2012,5.6,0.0, ,30.5,18.0,92,39,3.30,23.23
+NARRABRI AIRPORT,24/02/2012,5.9,0.0, ,31.8,16.4,94,29,2.27,26.56
+NARRABRI AIRPORT,25/02/2012,3.0,0.0, ,24.4,19.1,97,60,4.22,10.71
+NARRABRI AIRPORT,26/02/2012,2.6,2.8, ,22.1,19.3,100,24,2.96,4.06
+NARRABRI AIRPORT,27/02/2012,4.5,1.4, ,30.2,19.7,100,44,2.62,18.15
+NARRABRI AIRPORT,28/02/2012,6.2,0.0, ,31.6,18.8,88,37,3.88,24.52
+NARRABRI AIRPORT,29/02/2012,6.0,0.0, ,33.1,18.4,92,40,4.64,19.67
+Totals:,,82.5,21.4, ,,,,,, 

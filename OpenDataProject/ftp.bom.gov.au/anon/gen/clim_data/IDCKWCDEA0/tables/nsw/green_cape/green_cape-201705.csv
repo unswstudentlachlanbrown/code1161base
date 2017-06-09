@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GREEN CAPE New South Wales for May 2017,,,,,,,,,,
+Issued at 06:30 GMT on Thursday 01 June 2017,,,,,,,,,,
+© Copyright Commonwealth of Australia 2017 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GREEN CAPE,01/05/2017,2.5,0.0, ,22.3,12.6,91,55,3.85,11.71
+GREEN CAPE,02/05/2017,2.7,0.0, ,16.5,14.1,88,59,10.38,9.51
+GREEN CAPE,03/05/2017,3.1,0.0, ,17.5,11.3,75,55,8.00,12.29
+GREEN CAPE,04/05/2017,2.7,0.0, ,19.6,11.2,80,50,4.60,11.85
+GREEN CAPE,05/05/2017,2.2,0.0, ,19.5,11.8,92,65,5.60,12.05
+GREEN CAPE,06/05/2017,2.5,0.0, ,19.1,13.4,88,43,4.46,4.12
+GREEN CAPE,07/05/2017,3.7,0.0, ,16.3,11.4,75,48,11.75,11.22
+GREEN CAPE,08/05/2017, ,0.0, , ,12.2,89,63,10.68,8.53
+GREEN CAPE,09/05/2017, , , ,16.9, ,82,67,10.22,10.20
+GREEN CAPE,10/05/2017, ,0.0, , ,13.0,85,60,6.99,10.85
+GREEN CAPE,11/05/2017, , , , , , , , ,10.41
+GREEN CAPE,12/05/2017,1.8, , ,17.9,11.5,89,67,4.92,8.98
+GREEN CAPE,13/05/2017,1.9,0.0, ,19.9,12.8,90,71,5.55,9.78
+GREEN CAPE,14/05/2017, ,0.0, , ,13.9, , , ,6.41
+GREEN CAPE,15/05/2017, , , ,17.6, ,90,71,9.17,9.22
+GREEN CAPE,16/05/2017,2.5,0.4, ,17.1,13.4,88,62,9.49,10.36
+GREEN CAPE,17/05/2017,2.3,0.0, ,19.7,10.9,81,58,4.71,10.40
+GREEN CAPE,18/05/2017,1.7,0.0, ,20.3,12.8,86,73,3.83,10.21
+GREEN CAPE,19/05/2017,1.5,0.8, ,19.7,15.4,97,79,7.95,7.73
+GREEN CAPE,20/05/2017,0.7,71.8, ,17.5,14.0,98,93,6.99,5.05
+GREEN CAPE,21/05/2017,1.4,5.4, ,19.8,13.5,96,72,3.17,10.26
+GREEN CAPE,22/05/2017,1.5,0.2, ,19.4,12.3,95,74,4.37,10.36
+GREEN CAPE,23/05/2017,1.4,0.2, ,18.4,14.1,95,77,4.52,9.26
+GREEN CAPE,24/05/2017,2.2,2.4, ,17.7,12.8,91,60,7.60,9.74
+GREEN CAPE,25/05/2017,2.3,0.0, ,20.2,13.1,89,55,5.18,10.23
+GREEN CAPE,26/05/2017,1.8,0.0, ,17.6,11.5,88,65,5.42,10.16
+GREEN CAPE,27/05/2017,1.6,0.0, ,17.7,11.4,92,70,5.52,9.99
+GREEN CAPE,28/05/2017,3.1,0.0, ,20.7,13.9,89,39,6.02,9.10
+GREEN CAPE,29/05/2017,2.1,0.0, ,15.1,8.1,87,53,6.50,9.98
+GREEN CAPE,30/05/2017,2.6,0.0, ,17.1,9.3,76,51,6.72,8.69
+GREEN CAPE,31/05/2017,2.3,0.0, ,13.8,9.2,83,63,12.55,9.36
+Totals:,,54.1,81.2, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ULLADULLA New South Wales for May 2013,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 June 2013,,,,,,,,,,
+© Copyright Commonwealth of Australia 2013 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ULLADULLA,01/05/2013,1.7,0.0, ,20.0,14.1,99,67,3.07,9.22
+ULLADULLA,02/05/2013,2.6,0.0, ,17.4,10.2,78,52,4.60,11.47
+ULLADULLA,03/05/2013,2.8,0.2, ,21.6,10.8,82,38,2.75,15.65
+ULLADULLA,04/05/2013,4.9,0.0, ,21.8,14.8,70,27,7.29,11.86
+ULLADULLA,05/05/2013,2.7,0.0, ,16.9,9.2,66,46,3.77,14.67
+ULLADULLA,06/05/2013,1.9,0.0, ,16.2,9.7,95,52,3.25,10.23
+ULLADULLA,07/05/2013,1.6,1.4, ,18.9,11.0,98,60,1.65,12.69
+ULLADULLA,08/05/2013,1.8,0.0, ,19.9,11.4,89,67,2.13,13.93
+ULLADULLA,09/05/2013,1.7,0.0, ,21.3,11.1,95,57,1.30,14.21
+ULLADULLA,10/05/2013,1.6,0.0, ,20.3,12.7,91,53,0.99,13.85
+ULLADULLA,11/05/2013,1.7,0.0, ,21.1,13.7,95,77,2.44,12.77
+ULLADULLA,12/05/2013,1.9,0.0, ,20.6,12.8,94,68,3.07,13.50
+ULLADULLA,13/05/2013,2.2,0.0, ,19.7,17.1,77,54,3.72,3.67
+ULLADULLA,14/05/2013,2.7,0.0, ,18.9,11.8,60,35,3.03,13.81
+ULLADULLA,15/05/2013,2.3,0.0, ,18.5,10.0,70,41,2.81,12.82
+ULLADULLA,16/05/2013,3.4,0.0, ,19.1,13.0,69,33,5.06,13.20
+ULLADULLA,17/05/2013,2.6,0.0, ,19.5,11.4,61,41,3.08,12.23
+ULLADULLA,18/05/2013, ,0.0, , ,10.5,67,38,2.44,13.07
+ULLADULLA,19/05/2013, , , , , ,65,36,2.42,13.05
+ULLADULLA,20/05/2013, , , ,19.1, ,62,44,2.51,11.28
+ULLADULLA,21/05/2013,2.1,0.0, ,17.8,13.0,68,53,2.89,11.97
+ULLADULLA,22/05/2013,1.4,0.0, ,17.0,9.5,99,61,2.92,5.27
+ULLADULLA,23/05/2013,1.7,31.8, ,17.5,11.5,100,63,6.16,4.43
+ULLADULLA,24/05/2013, ,56.0, , ,10.3,99,80,4.97,6.67
+ULLADULLA,25/05/2013, , , , , ,89,48,1.72,12.33
+ULLADULLA,26/05/2013, , , ,19.1, ,87,48,1.17,12.08
+ULLADULLA,27/05/2013,1.7,0.0, ,17.1,10.9,100,56,4.02,10.89
+ULLADULLA,28/05/2013,1.3,31.6, ,19.1,12.4,99,69,2.10,11.22
+ULLADULLA,29/05/2013,1.8,0.0, ,22.3,10.0,95,44,1.99,11.15
+ULLADULLA,30/05/2013,1.1,0.0, ,20.7,11.9,93,69,1.20,8.39
+ULLADULLA,31/05/2013,1.7,0.0, ,21.9,13.6,82,64,2.30,10.67
+Totals:,,52.9,121, ,,,,,, 

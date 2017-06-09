@@ -1,0 +1,38 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for THREDBO New South Wales for January 2011,,,,,,,,,,
+Issued at 22:35 GMT on Tuesday 01 February 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+THREDBO,01/01/2011,3.8,0.0, ,19.6,15.1,76,45,0.00,21.39
+THREDBO,02/01/2011,5.4,1.4, ,18.2,11.2,99,41,0.00,33.77
+THREDBO,03/01/2011,4.4,0.0, ,16.0,5.0,99,21,0.00,31.13
+THREDBO,04/01/2011, ,0.8, , ,3.6,99,42,2.06,34.62
+THREDBO,05/01/2011, , , ,15.3, ,99,40,4.65,24.13
+THREDBO,06/01/2011,4.3,0.0, ,18.1,4.6,99,59,4.05,29.12
+THREDBO,07/01/2011, ,0.0, , ,6.1,91,53,3.63,27.15
+THREDBO,08/01/2011, , , ,18.0, ,89,64,5.57,30.47
+THREDBO,09/01/2011,3.0,0.0, ,16.0,10.6,99,77,4.17,19.52
+THREDBO,10/01/2011,2.7,25.8, ,14.2,9.0,99,98,5.26,23.98
+THREDBO,11/01/2011,1.8,15.8, ,13.7,8.1,99,94,6.07,14.88
+THREDBO,12/01/2011, ,15.4, , ,11.2,99,91,9.72,13.70
+THREDBO,13/01/2011, , , , , , , , ,12.94
+THREDBO,14/01/2011, , , ,14.1, ,99,95,16.47,9.81
+THREDBO,15/01/2011,6.2,19.4, ,19.6,10.7,99,27,6.43,34.72
+THREDBO,16/01/2011,6.2,0.0, ,21.6,9.8,94,35,5.30,34.01
+THREDBO,17/01/2011,5.2,0.0, ,15.7,11.8,94,42,10.52,33.79
+THREDBO,18/01/2011,5.1,0.0, ,16.4,5.2,98,36,4.06,33.92
+THREDBO,19/01/2011, ,0.0, , ,7.3,100,77,5.76,31.18
+THREDBO,27/01/2011, , , , , , , , ,33.85
+THREDBO,28/01/2011, , , , , , , , ,34.25
+THREDBO,29/01/2011, , , ,18.8, ,82,29,5.20,33.18
+THREDBO,30/01/2011,7.5,0.0, ,20.5,7.6,70,10,8.57,32.04
+THREDBO,31/01/2011,6.5,0.0, ,23.5,13.7,77,45,6.78,31.61
+Totals:,,62.1,78.6, ,,,,,, 

@@ -1,0 +1,29 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KIAMA (BOMBO HEADLAND) New South Wales for November 2010,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 27 November 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2010 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KIAMA (BOMBO HEADLAND),01/11/2010,3.9,0.0, ,17.7,15.9,100,36,8.91,13.56
+KIAMA (BOMBO HEADLAND),02/11/2010,2.7,44.6, ,18.5,11.3,100,73,9.35,17.57
+KIAMA (BOMBO HEADLAND),03/11/2010,3.6,2.2, ,20.6,11.0,100,65,4.26,22.69
+KIAMA (BOMBO HEADLAND),04/11/2010, ,4.2, , ,12.3,100,70,7.47,16.47
+KIAMA (BOMBO HEADLAND),05/11/2010, , , , , , , , ,21.17
+KIAMA (BOMBO HEADLAND),07/11/2010, , , , , , , , ,29.03
+KIAMA (BOMBO HEADLAND),08/11/2010, , , , , , , , ,22.42
+KIAMA (BOMBO HEADLAND),09/11/2010, , , , , , , , ,23.48
+KIAMA (BOMBO HEADLAND),10/11/2010, , , , , , , , ,27.41
+KIAMA (BOMBO HEADLAND),17/11/2010, , , , , , , , ,20.55
+KIAMA (BOMBO HEADLAND),18/11/2010, , , , , , , , ,30.16
+KIAMA (BOMBO HEADLAND),19/11/2010, , , , , ,100,33,9.15,21.64
+KIAMA (BOMBO HEADLAND),24/11/2010, , , , , , , , ,32.44
+KIAMA (BOMBO HEADLAND),25/11/2010, , , , , , , , ,31.78
+KIAMA (BOMBO HEADLAND),26/11/2010, , , , , , , , ,26.68
+Totals:,,10.2,51, ,,,,,, 

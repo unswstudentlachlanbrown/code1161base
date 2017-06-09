@@ -1,0 +1,40 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for THREDBO New South Wales for February 2011,,,,,,,,,,
+Issued at 22:34 GMT on Sunday 27 February 2011,,,,,,,,,,
+© Copyright Commonwealth of Australia 2011 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+THREDBO,01/02/2011,7.3,0.0, ,22.2,13.8,74,37,12.71,32.48
+THREDBO,02/02/2011,3.3,1.0, ,17.5,14.0,99,52,11.65,11.47
+THREDBO,03/02/2011,4.4,38.6, ,21.1,13.5,99,69,5.82,27.29
+THREDBO,04/02/2011,2.4,27.2, ,17.5,12.9,99,72,11.69,10.34
+THREDBO,05/02/2011,1.5,72.2, ,13.8,12.9,99,83,13.22,8.39
+THREDBO,06/02/2011,2.2,96.2, ,13.4,7.4,99,70,8.57,13.40
+THREDBO,07/02/2011,5.1,7.6, ,15.5,-1.4,98,9,3.83,32.57
+THREDBO,08/02/2011,4.4,0.0, ,14.7,4.1,98,42,5.08,31.53
+THREDBO,09/02/2011,3.6,0.0, ,15.5,4.3,99,67,2.78,26.31
+THREDBO,10/02/2011,2.9,0.2, ,16.1,7.1,97,65,10.23,17.20
+THREDBO,11/02/2011,1.1,14.6, ,13.2,10.7,99,88,12.97,5.84
+THREDBO,12/02/2011,3.1,55.8, ,15.9,10.1,99,71,6.33,21.80
+THREDBO,13/02/2011,5.0,0.2, ,16.4,7.8,95,24,4.54,30.31
+THREDBO,14/02/2011,4.1,0.0, ,14.3,4.3,97,46,2.63,30.65
+THREDBO,15/02/2011,3.4,0.0, ,15.2,3.6,98,60,2.92,24.88
+THREDBO,16/02/2011,1.6,0.6, ,11.7,7.1,99,82,5.01,10.70
+THREDBO,17/02/2011,2.5,13.4, ,15.5,9.0,99,76,6.11,17.56
+THREDBO,18/02/2011,2.5,11.6, ,14.5,8.5,99,91,3.41,19.44
+THREDBO,19/02/2011,1.7,15.6, ,14.4,9.7,99,78,17.20,8.12
+THREDBO,20/02/2011,2.7,57.4, ,11.4,7.3,95,65,14.11,22.13
+THREDBO,21/02/2011,4.1,0.0, ,10.6,4.4,97,25,7.14,29.75
+THREDBO,22/02/2011,3.9,0.0, ,13.8,-0.6,96,24,1.84,29.59
+THREDBO,23/02/2011,4.6,0.0, ,16.8,3.5,77,27,2.46,29.88
+THREDBO,24/02/2011,4.3,0.0, ,14.9,5.2,90,44,6.06,29.30
+THREDBO,25/02/2011,3.7,0.0, ,15.1,6.7,96,47,2.92,24.74
+THREDBO,26/02/2011,3.3,0.0, ,15.0,7.4,100,67,7.77,26.26
+Totals:,,88.7,412.2, ,,,,,, 

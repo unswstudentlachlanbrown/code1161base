@@ -1,0 +1,42 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT GININI New South Wales for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT GININI,01/02/2014,7.2,0.0, ,30.0,16.2,66,27,3.39,30.25
+MOUNT GININI,02/02/2014,6.8,0.0, ,30.0,17.6,70,28,3.54,26.77
+MOUNT GININI,03/02/2014,7.5,0.0, ,29.9,17.2,52,21,3.72,28.99
+MOUNT GININI,04/02/2014,4.1,0.2, ,16.3,11.5,99,51,4.58,25.53
+MOUNT GININI,05/02/2014,4.0,0.2, ,15.0,2.4,98,55,4.86,30.74
+MOUNT GININI,06/02/2014,4.8,0.0, ,22.2,3.2,98,40,2.94,27.07
+MOUNT GININI,07/02/2014,5.9,0.0, ,25.8,10.1,76,24,2.72,28.89
+MOUNT GININI,08/02/2014,6.5,0.0, ,27.9,14.2,61,24,3.05,28.84
+MOUNT GININI,09/02/2014,7.8,0.0, ,28.5,16.7,41,18,4.31,29.54
+MOUNT GININI,10/02/2014,6.4,0.0, ,29.0,14.8,94,21,3.01,28.70
+MOUNT GININI,11/02/2014,6.4,0.0, ,27.5,11.1,97,19,3.36,29.05
+MOUNT GININI,12/02/2014,5.0,0.0, ,24.8,7.5,99,29,2.33,26.00
+MOUNT GININI,13/02/2014,3.8,0.0, ,23.5,10.5,99,21,2.56,13.76
+MOUNT GININI,14/02/2014,2.2,18.8, ,17.6,9.6,99,65,2.05,10.54
+MOUNT GININI,15/02/2014,0.8,11.0, ,14.9,11.3,99,97,4.81,3.17
+MOUNT GININI,16/02/2014,1.8,57.4, ,16.0,12.2,99,95,3.46,11.69
+MOUNT GININI,17/02/2014,4.2,23.6, ,18.8,5.9,99,57,2.34,28.29
+MOUNT GININI,18/02/2014,3.7,0.0, ,19.7,8.6,99,51,3.06,20.50
+MOUNT GININI,19/02/2014,1.5,0.0, ,19.2,12.2,99,82,5.49,5.56
+MOUNT GININI,20/02/2014,3.1,14.2, ,11.1,0.9,98,49,6.59,24.38
+MOUNT GININI,21/02/2014,4.5,0.0, ,18.5,2.2,99,36,3.68,28.50
+MOUNT GININI,22/02/2014,3.9,0.0, ,17.7,5.2,99,48,2.17,26.21
+MOUNT GININI,23/02/2014,4.1,0.0, ,18.3,5.9,99,28,1.71,26.71
+MOUNT GININI,24/02/2014,4.2,0.0, ,20.4,8.7,94,45,3.02,23.69
+MOUNT GININI,25/02/2014,4.8,0.0, ,21.4,10.1,84,37,3.19,25.52
+MOUNT GININI,26/02/2014,1.9,0.6, ,15.2,10.8,99,60,4.64,5.67
+MOUNT GININI,27/02/2014,2.4,8.4, ,15.8,10.5,100,98,2.89,18.94
+MOUNT GININI,28/02/2014,0.9,0.0, ,10.1,7.8,98,97,3.19,5.13
+Totals:,,120.2,134.4, ,,,,,, 

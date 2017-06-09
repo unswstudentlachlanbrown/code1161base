@@ -1,0 +1,43 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT BOYCE New South Wales for February 2012,,,,,,,,,,
+Issued at 22:33 GMT on Thursday 01 March 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT BOYCE,01/02/2012,1.0,10.6, ,13.4,10.5,99,96,3.33,5.59
+MOUNT BOYCE,02/02/2012,0.7,28.8, ,12.5,10.9,99,99,3.30,2.64
+MOUNT BOYCE,03/02/2012,1.2,30.6, ,14.7,10.1,99,97,1.68,6.58
+MOUNT BOYCE,04/02/2012,3.8,18.2, ,22.5,12.3,99,67,2.16,21.70
+MOUNT BOYCE,05/02/2012,4.2,0.0, ,25.3,13.4,99,52,1.76,21.49
+MOUNT BOYCE,06/02/2012,3.9,0.0, ,23.7,15.9,98,59,2.90,19.18
+MOUNT BOYCE,07/02/2012,1.4,4.0, ,16.7,12.9,99,92,2.44,7.49
+MOUNT BOYCE,08/02/2012,1.1,7.4, ,14.8,11.5,99,91,2.40,5.16
+MOUNT BOYCE,09/02/2012,2.3,7.8, ,20.0,11.5,99,74,2.42,11.98
+MOUNT BOYCE,10/02/2012,3.2,28.6, ,19.7,11.6,99,68,2.49,19.18
+MOUNT BOYCE,11/02/2012,3.1,7.8, ,19.0,10.3,99,62,2.41,18.23
+MOUNT BOYCE,12/02/2012,4.5,5.6, ,21.7,11.0,94,38,2.75,23.67
+MOUNT BOYCE,13/02/2012,2.9,0.0, ,21.7,10.5,98,58,2.43,13.62
+MOUNT BOYCE,14/02/2012,3.4,2.8, ,21.2,11.7,98,64,2.36,19.39
+MOUNT BOYCE,15/02/2012,3.5,0.4, ,21.4,10.4,99,58,1.89,19.71
+MOUNT BOYCE,16/02/2012,4.6,0.6, ,23.6,10.4,98,53,2.34,27.23
+MOUNT BOYCE,17/02/2012,3.6,0.0, ,24.4,14.1,95,49,2.68,15.29
+MOUNT BOYCE,18/02/2012,3.4,7.4, ,23.7,12.7,98,51,2.38,15.67
+MOUNT BOYCE,19/02/2012,4.4,9.6, ,25.1,13.4,98,49,2.32,22.60
+MOUNT BOYCE,20/02/2012,2.8,35.4, ,21.9,13.5,99,62,2.63,12.74
+MOUNT BOYCE,21/02/2012,3.4,30.2, ,21.3,12.1,98,56,2.73,17.92
+MOUNT BOYCE,22/02/2012,3.3,0.2, ,20.7,9.2,98,58,2.05,19.08
+MOUNT BOYCE,23/02/2012,4.8,0.0, ,25.5,10.3,99,40,2.18,26.23
+MOUNT BOYCE,24/02/2012,4.9,0.2, ,25.0,13.3,91,44,2.06,26.94
+MOUNT BOYCE,25/02/2012,4.8,0.0, ,24.6,10.1,95,38,2.73,25.05
+MOUNT BOYCE,26/02/2012,1.5,0.2, ,19.6,15.6,97,86,2.37,6.48
+MOUNT BOYCE,27/02/2012,2.7,4.8, ,23.0,16.0,97,71,2.69,12.73
+MOUNT BOYCE,28/02/2012,3.0,0.0, ,23.3,17.1,94,66,3.61,12.93
+MOUNT BOYCE,29/02/2012,1.0,5.8, ,18.3,17.2,99,92,1.99,3.26
+Totals:,,88.4,247, ,,,,,, 

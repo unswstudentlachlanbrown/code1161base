@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MORUYA AIRPORT New South Wales for April 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MORUYA AIRPORT,01/04/2009, , , ,24.0, , , , ,14.19
+MORUYA AIRPORT,02/04/2009, ,0.4, , ,19.0,94,83,4.14,14.17
+MORUYA AIRPORT,03/04/2009, , , , , , , , ,19.09
+MORUYA AIRPORT,04/04/2009, , , , , , , , ,14.07
+MORUYA AIRPORT,05/04/2009, , , ,23.0, , , , ,20.52
+MORUYA AIRPORT,06/04/2009, ,0.0, , ,14.0, , , ,12.91
+MORUYA AIRPORT,07/04/2009, , , ,20.0, , , , ,20.11
+MORUYA AIRPORT,08/04/2009,2.9,0.0, ,21.0,7.0,98,49,2.05,20.28
+MORUYA AIRPORT,09/04/2009,2.8,0.0, ,22.0,10.0,97,65,2.77,19.81
+MORUYA AIRPORT,10/04/2009,2.5,0.0, ,26.0,9.0,99,46,1.13,14.77
+MORUYA AIRPORT,11/04/2009,2.2,0.0, ,23.0,11.0,97,71,1.77,14.69
+MORUYA AIRPORT,12/04/2009,2.8,0.2, ,25.0,12.0,99,55,1.53,18.32
+MORUYA AIRPORT,13/04/2009,1.9,0.0, ,22.0,12.0,97,75,1.91,12.03
+MORUYA AIRPORT,14/04/2009,2.2,24.0, ,22.0,17.0,98,74,1.78,14.28
+MORUYA AIRPORT,15/04/2009,4.7,0.2, ,29.0,9.0,99,20,3.41,17.67
+MORUYA AIRPORT,16/04/2009,3.5,0.0, ,22.0,11.0,85,32,2.84,18.94
+MORUYA AIRPORT,17/04/2009,2.9,0.0, ,22.0,6.0,96,35,2.15,18.61
+MORUYA AIRPORT,18/04/2009,3.1,0.0, ,22.0,10.0,92,51,3.66,17.99
+MORUYA AIRPORT,19/04/2009,2.8,0.0, ,22.0,14.0,93,61,5.72,12.50
+MORUYA AIRPORT,20/04/2009,2.1,6.0, ,19.0,13.0,94,72,4.96,12.65
+MORUYA AIRPORT,21/04/2009,2.4,3.0, ,20.0,13.0,96,56,4.00,12.09
+MORUYA AIRPORT,22/04/2009,2.1,5.0, ,20.0,13.0,97,69,2.91,14.22
+MORUYA AIRPORT,23/04/2009,2.3,2.0, ,20.0,14.0,98,60,2.46,15.65
+MORUYA AIRPORT,24/04/2009,2.2,0.0, ,23.0,8.0,99,55,2.44,11.32
+MORUYA AIRPORT,25/04/2009,3.8,0.0, ,23.0,14.0,63,41,4.42,12.09
+MORUYA AIRPORT,26/04/2009,4.2,0.0, ,18.0,13.0,63,33,6.21,16.73
+MORUYA AIRPORT,27/04/2009,3.3,0.0, ,19.0,8.0,60,31,3.66,13.89
+MORUYA AIRPORT,28/04/2009,2.2,0.0, ,18.0,7.0,84,48,3.08,11.60
+MORUYA AIRPORT,29/04/2009,2.3,1.0, ,17.0,2.0,94,41,3.11,14.74
+MORUYA AIRPORT,30/04/2009,2.5,0.0, ,18.0,9.0,83,52,4.12,15.15
+Totals:,,63.7,41.8, ,,,,,, 

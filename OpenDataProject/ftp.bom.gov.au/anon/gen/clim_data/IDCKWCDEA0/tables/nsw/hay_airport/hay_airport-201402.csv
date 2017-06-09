@@ -1,0 +1,42 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HAY AIRPORT New South Wales for February 2014,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 March 2014,,,,,,,,,,
+© Copyright Commonwealth of Australia 2014 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HAY AIRPORT,01/02/2014,9.3,0.0, ,43.9,24.5,56,10,3.47,23.19
+HAY AIRPORT,02/02/2014,10.3,0.0, ,44.8,24.4,25,6,3.36,29.78
+HAY AIRPORT,03/02/2014,14.5,0.0, ,45.5,25.9,47,8,7.60,21.82
+HAY AIRPORT,04/02/2014,11.4,0.0, ,36.4,17.7,59,14,7.49,27.33
+HAY AIRPORT,05/02/2014,11.0,0.0, ,35.7,19.2,56,24,7.92,28.67
+HAY AIRPORT,06/02/2014,11.1,0.0, ,37.4,20.7,46,19,6.65,26.70
+HAY AIRPORT,07/02/2014,11.9,0.0, ,41.2,23.1,33,6,5.54,26.01
+HAY AIRPORT,08/02/2014,12.9,0.0, ,43.4,23.6,27,7,5.65,28.43
+HAY AIRPORT,09/02/2014,15.4,0.0, ,43.6,28.0,30,7,7.96,28.48
+HAY AIRPORT,10/02/2014,10.2,0.0, ,37.6,16.2,52,6,4.78,28.39
+HAY AIRPORT,11/02/2014,9.5,0.0, ,39.4,14.5,66,5,3.73,28.72
+HAY AIRPORT,12/02/2014,8.8,0.0, ,41.3,16.8,45,7,2.92,28.43
+HAY AIRPORT,13/02/2014,5.2,0.0, ,34.5,23.6,80,21,4.01,4.90
+HAY AIRPORT,14/02/2014,2.3,0.2, ,24.9,21.3,96,54,3.23,4.12
+HAY AIRPORT,15/02/2014,3.2,29.2, ,27.8,19.8,99,66,5.88,9.74
+HAY AIRPORT,16/02/2014,7.4,0.2, ,28.5,19.1,93,29,7.42,27.18
+HAY AIRPORT,17/02/2014,6.2,0.0, ,31.9,13.6,90,26,2.50,27.99
+HAY AIRPORT,18/02/2014,6.9,0.0, ,34.5,16.1,89,11,2.49,28.04
+HAY AIRPORT,19/02/2014,7.6,0.0, ,27.0,17.1,66,29,7.83,23.38
+HAY AIRPORT,20/02/2014,6.6,0.0, ,24.2,10.6,86,21,6.18,28.11
+HAY AIRPORT,21/02/2014,6.2,0.0, ,25.2,9.0,79,28,4.88,27.93
+HAY AIRPORT,22/02/2014,7.5,0.0, ,29.7,9.9,79,20,5.10,27.55
+HAY AIRPORT,23/02/2014,6.9,0.0, ,33.4,11.2,86,20,3.24,26.52
+HAY AIRPORT,24/02/2014,7.8,0.0, ,35.9,17.9,53,16,3.39,25.63
+HAY AIRPORT,25/02/2014,9.3,0.0, ,37.1,23.5,85,20,6.21,24.20
+HAY AIRPORT,26/02/2014,6.4,3.6, ,30.0,16.8,90,26,4.79,21.49
+HAY AIRPORT,27/02/2014,7.2,0.0, ,28.5,12.1,78,21,5.49,25.85
+HAY AIRPORT,28/02/2014,5.7,0.0, ,30.3,12.3,84,41,4.80,19.87
+Totals:,,238.7,33.2, ,,,,,, 

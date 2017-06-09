@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COBAR AIRPORT New South Wales for July 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COBAR AIRPORT,01/07/2009,2.4,0.0, ,17.0,8.4,88,28,3.24,13.74
+COBAR AIRPORT,02/07/2009,1.9,0.0, ,16.1,2.9,90,51,3.42,13.08
+COBAR AIRPORT,03/07/2009,2.2,0.0, ,14.2,8.4,87,52,5.98,10.91
+COBAR AIRPORT,04/07/2009,1.4,0.0, ,13.6,5.2,94,66,3.63,12.12
+COBAR AIRPORT,05/07/2009,1.7,0.0, ,14.6,8.2,91,52,2.91,12.85
+COBAR AIRPORT,06/07/2009, ,0.0, ,13.1,4.1,94,52,3.09, 
+COBAR AIRPORT,07/07/2009, ,0.0, ,14.6,0.8,95,40,2.25, 
+COBAR AIRPORT,08/07/2009, ,0.0, ,16.6,4.5,86,51,3.93, 
+COBAR AIRPORT,09/07/2009,2.4,0.0, ,17.3,7.4,76,44,3.88,13.86
+COBAR AIRPORT,10/07/2009,2.3,0.0, ,17.8,5.3,89,42,3.43,13.93
+COBAR AIRPORT,11/07/2009,2.7,0.0, ,18.6,8.6,76,43,4.41,12.30
+COBAR AIRPORT,12/07/2009,2.4,0.0, ,18.8,10.7,89,45,3.87,11.66
+COBAR AIRPORT,13/07/2009,1.5,1.0, ,14.8,7.0,96,55,2.85,9.80
+COBAR AIRPORT,14/07/2009,1.9,0.0, ,14.5,4.7,94,47,3.56,11.98
+COBAR AIRPORT,15/07/2009,1.0,4.2, ,11.0,6.8,96,82,2.58,10.68
+COBAR AIRPORT,16/07/2009,1.3,9.8, ,13.2,6.9,95,60,1.91,11.97
+COBAR AIRPORT,17/07/2009,1.1,0.0, ,13.3,-0.4,96,56,0.72,13.73
+COBAR AIRPORT,18/07/2009,1.6,0.2, ,15.0,-0.3,96,45,2.12,14.26
+COBAR AIRPORT,19/07/2009,2.3,0.0, ,17.4,3.6,89,39,3.22,14.56
+COBAR AIRPORT,20/07/2009,2.8,0.0, ,18.6,1.9,91,31,3.83,14.86
+COBAR AIRPORT,21/07/2009,3.8,0.0, ,23.2,7.3,70,35,4.79,13.94
+COBAR AIRPORT,22/07/2009, ,0.0, ,17.5,13.0, , , ,5.31
+COBAR AIRPORT,23/07/2009, ,2.8, , ,3.8, , , ,13.02
+COBAR AIRPORT,24/07/2009, , , , , , , , ,15.28
+COBAR AIRPORT,25/07/2009, , , , , , , , ,15.00
+COBAR AIRPORT,26/07/2009, , , , , , , , ,7.19
+COBAR AIRPORT,27/07/2009, , , ,11.5,4.8, , , ,10.68
+COBAR AIRPORT,28/07/2009,1.6,0.0, ,15.9,0.7,96,55,1.66,14.07
+COBAR AIRPORT,29/07/2009,1.4,0.0, ,15.0,2.0,96,56,1.54,12.61
+COBAR AIRPORT,30/07/2009,1.4,0.0, ,14.9,1.4,96,48,1.15,11.47
+COBAR AIRPORT,31/07/2009,1.9,0.0, ,16.5,6.8,88,49,2.21,13.38
+Totals:,,43,18, ,,,,,, 

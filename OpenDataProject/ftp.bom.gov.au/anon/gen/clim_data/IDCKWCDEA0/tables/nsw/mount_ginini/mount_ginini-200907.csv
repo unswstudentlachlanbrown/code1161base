@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT GININI New South Wales for July 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT GININI,01/07/2009,0.7,21.0, ,-0.1,-0.4,87,84,8.23,7.79
+MOUNT GININI,02/07/2009,0.7,29.0, ,-0.7,-1.8,85,82,7.18,7.73
+MOUNT GININI,03/07/2009,0.7,20.2, ,-1.8,-3.2,82,80,4.57,9.60
+MOUNT GININI,04/07/2009,0.6,2.4, ,-0.2,-4.3,86,79,4.12,7.58
+MOUNT GININI,05/07/2009,0.7,0.6, ,0.1,-4.5,86,66,2.86,12.22
+MOUNT GININI,06/07/2009, ,0.0, ,0.9,-5.7,89,49,3.22, 
+MOUNT GININI,07/07/2009, , , ,-1.3, ,95,28,3.72, 
+MOUNT GININI,08/07/2009, ,0.0, ,0.1,-4.8,97,94,3.76, 
+MOUNT GININI,09/07/2009,0.7,0.0, ,2.5,-1.6,97,75,2.52,11.31
+MOUNT GININI,10/07/2009,0.6,0.0, ,1.8,-0.5,97,84,3.49,10.91
+MOUNT GININI,11/07/2009,0.9,0.0, ,3.1,-0.2,97,64,5.19,8.51
+MOUNT GININI,12/07/2009,0.5,3.2, ,2.7,-0.1,97,90,8.92,8.53
+MOUNT GININI,13/07/2009,0.6,1.0, ,-0.6,-1.5,97,81,8.16,7.04
+MOUNT GININI,14/07/2009,0.4,12.6, ,-0.6,-2.9,96,93,4.65,8.99
+MOUNT GININI,15/07/2009,0.6,3.0, ,1.6,-5.0,94,81,1.34,10.38
+MOUNT GININI,16/07/2009,0.7,2.4, ,0.3,-4.1,96,76,3.97,11.27
+MOUNT GININI,17/07/2009,1.1,0.0, ,5.2,-3.1,97,55,4.27,12.76
+MOUNT GININI,18/07/2009,0.9,0.0, ,1.2,-3.5,97,61,5.77,12.67
+MOUNT GININI,19/07/2009,0.6,0.0, ,2.6,-3.1,98,84,7.94,9.87
+MOUNT GININI,20/07/2009,0.9,0.0, ,3.0,-1.2,98,70,8.27,13.13
+MOUNT GININI,21/07/2009,1.5,0.0, ,5.9,-1.0,98,48,6.49,13.20
+MOUNT GININI,22/07/2009,1.1,0.2, ,6.0,1.8,98,69,8.65,9.10
+MOUNT GININI,23/07/2009,0.5,8.2, ,-0.5,-1.7,98,95,3.57,11.35
+MOUNT GININI,24/07/2009,0.9,2.2, ,1.0,-4.4,97,60,3.70,13.76
+MOUNT GININI,25/07/2009,1.9,0.0, ,2.7,-5.1,91,14,6.12,13.44
+MOUNT GININI,26/07/2009,0.5,0.0, ,0.5,-2.1,98,91,6.20,6.66
+MOUNT GININI,27/07/2009,0.5,3.6, ,0.3,-3.8,98,91,7.31,12.82
+MOUNT GININI,28/07/2009,0.4,0.2, ,0.2,-2.4,98,97,7.62,10.09
+MOUNT GININI,29/07/2009,0.7,0.2, ,3.0,-2.2,98,85,7.32,11.72
+MOUNT GININI,30/07/2009,0.7,0.0, ,2.9,-3.5,98,81,5.59,11.29
+MOUNT GININI,31/07/2009,0.7,2.6, ,1.9,-1.6,98,87,7.03,12.30
+Totals:,,21.3,112.6, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ULLADULLA New South Wales for June 2016,,,,,,,,,,
+Issued at 22:30 GMT on Friday 01 July 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ULLADULLA,01/06/2016, ,24.0, , , ,100,100,3.48,4.46
+ULLADULLA,02/06/2016, ,37.0, ,16.0, ,100,72,3.33,9.88
+ULLADULLA,03/06/2016,1.1,3.4, ,17.1,10.9,95,76,2.23,8.68
+ULLADULLA,04/06/2016,0.9,24.2, ,19.0,13.5,100,84,5.58,2.43
+ULLADULLA,05/06/2016,3.1,130.0, ,19.8,15.7,100,29,6.69,1.62
+ULLADULLA,06/06/2016,1.3,73.2, ,15.5,14.2,100,59,3.70,3.41
+ULLADULLA,07/06/2016,2.0,2.8, ,16.9,10.7,69,52,3.39,6.49
+ULLADULLA,08/06/2016,2.0,0.0, ,19.8,11.7,74,46,2.68,10.32
+ULLADULLA,09/06/2016,3.6,0.0, ,21.1,13.8,66,35,5.60,10.25
+ULLADULLA,10/06/2016,2.6,0.0, ,19.9,13.4,66,42,3.86,10.26
+ULLADULLA,11/06/2016,2.9,0.0, ,19.8,11.2,69,34,4.26,10.18
+ULLADULLA,12/06/2016,1.4,0.0, ,14.4,6.8,72,47,2.12,10.19
+ULLADULLA,13/06/2016,1.3,0.0, ,18.1,6.4,83,56,2.00,10.19
+ULLADULLA,14/06/2016,1.8,0.0, ,20.5,9.9,78,39,2.10,10.15
+ULLADULLA,15/06/2016,1.3,0.0, ,17.6,9.9,87,61,2.01,9.84
+ULLADULLA,16/06/2016,1.9,0.0, ,20.9,9.5,78,37,2.29,10.13
+ULLADULLA,17/06/2016,1.7,0.0, ,19.9,12.4,79,58,2.75,6.97
+ULLADULLA,18/06/2016,0.9,7.0, ,15.8,13.8,100,77,2.52,3.85
+ULLADULLA,19/06/2016,2.0,1.0, ,16.8,13.0,100,34,3.81,3.19
+ULLADULLA,20/06/2016,1.7,29.2, ,20.1,12.4,100,53,3.24,9.66
+ULLADULLA,21/06/2016,2.4,2.4, ,17.4,13.4,69,44,4.14,8.87
+ULLADULLA,22/06/2016,2.8,0.0, ,18.2,12.3,60,40,4.30,10.21
+ULLADULLA,23/06/2016,1.9,0.0, ,16.1,9.3,73,41,2.81,5.62
+ULLADULLA,24/06/2016,2.3,0.0, ,15.3,12.2,74,37,3.91,9.79
+ULLADULLA,25/06/2016,2.0,0.0, ,13.5,6.0,65,36,3.34,10.29
+ULLADULLA,26/06/2016,1.4,0.0, ,15.1,6.7,71,51,2.02,8.27
+ULLADULLA,27/06/2016,1.1,0.0, ,12.8,9.5,100,60,2.81,4.49
+ULLADULLA,28/06/2016,1.6,11.8, ,15.8,7.0,74,42,2.34,10.36
+ULLADULLA,29/06/2016,1.3,0.0, ,17.0,6.8,74,42,1.56,10.36
+ULLADULLA,30/06/2016,2.2,0.0, ,16.3,9.1,70,36,3.35,6.43
+Totals:,,52.5,346, ,,,,,, 

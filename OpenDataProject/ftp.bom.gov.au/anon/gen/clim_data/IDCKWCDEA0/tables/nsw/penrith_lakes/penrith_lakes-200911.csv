@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PENRITH LAKES New South Wales for November 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PENRITH LAKES,01/11/2009,6.3,0.0, ,32.2,13.6,100,28,2.19,30.07
+PENRITH LAKES,02/11/2009,6.0,0.0, ,33.0,17.0,100,38,2.64,26.11
+PENRITH LAKES,03/11/2009,10.1,0.0, ,39.4,18.5,99,13,5.31,28.33
+PENRITH LAKES,04/11/2009,3.6,0.0, ,23.6,18.5,100,31,2.92,12.82
+PENRITH LAKES,05/11/2009, ,0.6, ,25.5,16.4, , , ,19.97
+PENRITH LAKES,06/11/2009,3.2,1.2, ,22.3,15.3,100,53,2.82,14.74
+PENRITH LAKES,07/11/2009,4.6,2.2, ,26.2,16.2,100,29,2.90,18.38
+PENRITH LAKES,08/11/2009,3.7,1.0, ,23.1,15.3,100,30,2.22,16.14
+PENRITH LAKES,09/11/2009,6.4,2.0, ,30.1,16.9,100,27,2.40,30.46
+PENRITH LAKES,10/11/2009,6.6,0.2, ,31.5,12.9,100,24,2.11,32.03
+PENRITH LAKES,11/11/2009,6.8,0.0, ,31.5,13.1,98,26,2.48,31.86
+PENRITH LAKES,12/11/2009, ,0.0, ,38.8,14.0,100,16,3.87, 
+PENRITH LAKES,13/11/2009,3.8,1.6, ,22.7,18.7,93,54,3.00,17.87
+PENRITH LAKES,14/11/2009,6.9,0.0, ,33.4,11.6,100,17,1.95,32.24
+PENRITH LAKES,15/11/2009,6.5,0.2, ,30.9,15.2,91,29,2.63,29.86
+PENRITH LAKES,16/11/2009, ,0.0, ,38.8,18.5,97,15,2.88, 
+PENRITH LAKES,17/11/2009, ,0.0, ,27.1,19.1,82,42,3.96, 
+PENRITH LAKES,18/11/2009, ,0.0, ,32.4,17.2,88,29,2.65, 
+PENRITH LAKES,19/11/2009, ,0.0, ,39.1,15.8,99,22,2.46, 
+PENRITH LAKES,20/11/2009, ,0.0, ,42.2,19.7,98,17,4.06, 
+PENRITH LAKES,21/11/2009, ,0.0, ,36.7,23.1,82,26,3.03, 
+PENRITH LAKES,22/11/2009, ,0.0, ,42.1,19.4,94,13,4.50, 
+PENRITH LAKES,23/11/2009, ,0.0, , ,19.1, , , , 
+PENRITH LAKES,24/11/2009, , , ,23.0, , , , , 
+PENRITH LAKES,25/11/2009, ,0.4, ,32.9,17.2,100,29,2.65, 
+PENRITH LAKES,26/11/2009, ,0.0, ,35.3,18.7, , , , 
+PENRITH LAKES,27/11/2009, ,4.2, ,34.8,20.1, , , , 
+PENRITH LAKES,28/11/2009,11.5,0.0, ,39.9,17.1,83,10,5.89,29.68
+PENRITH LAKES,29/11/2009,9.7,0.0, ,31.7,19.0,47,18,5.77,30.56
+PENRITH LAKES,30/11/2009, , , , , , , , ,16.48
+Totals:,,95.7,13.6, ,,,,,, 

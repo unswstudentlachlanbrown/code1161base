@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COOMA AIRPORT New South Wales for June 2012,,,,,,,,,,
+Issued at 22:38 GMT on Sunday 01 July 2012,,,,,,,,,,
+© Copyright Commonwealth of Australia 2012 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COOMA AIRPORT,01/06/2012,0.8,0.0, ,11.1,-3.9,99,53,1.26,7.19
+COOMA AIRPORT,02/06/2012,0.6,0.0, ,7.8,-5.4,99,80,2.25,4.43
+COOMA AIRPORT,03/06/2012,0.4,28.0, ,7.7,1.4,99,99,3.46,3.42
+COOMA AIRPORT,04/06/2012,1.0,0.6, ,10.3,4.2,99,71,6.31,4.59
+COOMA AIRPORT,05/06/2012,0.5,23.4, ,7.0,6.1,99,89,9.38,2.77
+COOMA AIRPORT,06/06/2012,0.7,10.4, ,7.2,2.7,99,82,6.07,5.73
+COOMA AIRPORT,07/06/2012,0.7,0.6, ,6.8,-4.5,99,69,2.50,8.50
+COOMA AIRPORT,08/06/2012,0.8,0.0, ,6.9,-3.8,99,66,3.15,7.01
+COOMA AIRPORT,09/06/2012,0.8,0.0, ,9.4,-1.1,98,69,2.21,6.21
+COOMA AIRPORT,10/06/2012,0.7,0.0, ,9.8,-2.1,99,51,0.89,8.39
+COOMA AIRPORT,11/06/2012,0.6,0.0, ,7.6,-2.7,99,68,1.00,4.95
+COOMA AIRPORT,12/06/2012,0.7,0.6, ,9.1,1.3,99,66,1.48,5.16
+COOMA AIRPORT,13/06/2012,0.9,0.2, ,11.0,0.8,99,63,2.12,7.54
+COOMA AIRPORT,14/06/2012,1.2,0.0, ,12.4,-1.1,99,60,4.03,6.49
+COOMA AIRPORT,15/06/2012,1.7,0.2, ,13.6,3.7,90,48,4.50,5.42
+COOMA AIRPORT,16/06/2012,0.7,0.0, ,7.7,-1.7,96,72,2.06,2.66
+COOMA AIRPORT,17/06/2012,1.6,1.6, ,10.8,1.5,86,53,5.46,7.89
+COOMA AIRPORT,18/06/2012,1.3,0.0, ,12.8,-3.5,97,46,2.70,8.25
+COOMA AIRPORT,19/06/2012,1.3,0.0, ,7.6,-1.3,95,49,4.50,7.11
+COOMA AIRPORT,20/06/2012,2.3,0.0, ,12.6,-8.2,98,14,3.78,7.82
+COOMA AIRPORT,21/06/2012,2.1,0.0, ,11.5,-3.1,75,44,6.23,8.14
+COOMA AIRPORT,22/06/2012,1.7,2.2, ,9.7,3.3,97,47,6.82,7.75
+COOMA AIRPORT,23/06/2012,1.3,0.2, ,9.0,-7.7,96,44,3.51,8.20
+COOMA AIRPORT,24/06/2012,1.6,0.0, ,11.0,-0.6,90,45,4.24,8.13
+COOMA AIRPORT,25/06/2012,1.5,0.0, ,12.6,-5.3,99,42,3.17,8.04
+COOMA AIRPORT,26/06/2012,0.6,1.0, ,5.7,0.8,99,81,2.63,5.08
+COOMA AIRPORT,27/06/2012,0.9,0.0, ,9.0,1.1,99,65,3.20,6.07
+COOMA AIRPORT,28/06/2012,1.4,0.4, ,11.8,-2.9,99,49,3.83,8.09
+COOMA AIRPORT,29/06/2012,1.4,0.0, ,11.7,2.0,99,57,5.42,7.58
+COOMA AIRPORT,30/06/2012,1.3,0.0, ,9.0,2.3,91,50,3.91,7.78
+Totals:,,33.1,69.4, ,,,,,, 

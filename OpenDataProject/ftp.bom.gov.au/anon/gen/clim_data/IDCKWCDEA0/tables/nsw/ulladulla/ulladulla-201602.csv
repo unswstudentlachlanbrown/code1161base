@@ -1,0 +1,43 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ULLADULLA New South Wales for February 2016,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 March 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ULLADULLA,01/02/2016,2.3,1.0, ,21.4,16.9,100,48,2.35,7.13
+ULLADULLA,02/02/2016, ,7.2, , ,16.3,85,61,2.70,28.97
+ULLADULLA,03/02/2016, ,0.2, , ,16.8,100,62,5.05,23.43
+ULLADULLA,04/02/2016, ,2.8, ,22.6, ,100,62,10.32,18.29
+ULLADULLA,05/02/2016,4.0,0.2, ,23.8,16.7,86,64,5.38,18.15
+ULLADULLA,06/02/2016,4.7,0.0, ,24.7,17.9,81,56,2.54,24.01
+ULLADULLA,07/02/2016,5.1,0.0, ,24.6,16.4,85,60,2.23,29.12
+ULLADULLA,08/02/2016,5.0,0.0, ,25.3,17.2,88,64,1.74,28.34
+ULLADULLA,09/02/2016,5.0,0.0, ,24.5,20.9,83,59,3.58,24.56
+ULLADULLA,10/02/2016,5.0,0.0, ,25.5,17.9,87,69,3.31,28.02
+ULLADULLA,11/02/2016,4.0,0.0, ,26.0,20.0,98,71,1.62,21.44
+ULLADULLA,12/02/2016,4.6,0.0, ,25.9,19.9,96,74,2.28,25.67
+ULLADULLA,13/02/2016,4.8,0.0, ,25.6,20.6,95,73,4.55,27.32
+ULLADULLA,14/02/2016,3.4,0.0, ,25.4,21.8,95,73,4.94,15.54
+ULLADULLA,15/02/2016,3.5,0.0, ,24.8,19.6,98,66,2.08,17.57
+ULLADULLA,16/02/2016,2.8,0.0, ,23.6,18.8,100,62,4.28,10.86
+ULLADULLA,17/02/2016,4.6,1.0, ,22.3,13.6,95,44,3.08,25.43
+ULLADULLA,18/02/2016,4.5,0.0, ,24.1,15.5,86,59,2.03,26.00
+ULLADULLA,19/02/2016,4.9,0.0, ,27.0,18.5,90,67,3.00,26.53
+ULLADULLA,20/02/2016,2.1,0.0, ,23.7,20.2,100,76,4.85,7.61
+ULLADULLA,21/02/2016,2.2,15.8, ,23.2,17.1,100,77,2.44,10.65
+ULLADULLA,22/02/2016,4.3,0.0, ,26.1,17.8,100,74,2.09,24.95
+ULLADULLA,23/02/2016,4.5,0.0, ,26.4,20.0,100,70,3.44,24.93
+ULLADULLA,24/02/2016,4.5,0.0, ,27.5,21.9,91,71,4.22,22.06
+ULLADULLA,25/02/2016,5.2,0.0, ,28.5,21.8,97,58,4.20,25.06
+ULLADULLA,26/02/2016,2.3,0.0, ,26.2,22.1,100,67,4.26,6.24
+ULLADULLA,27/02/2016,1.1,8.8, ,21.6,18.0,100,88,3.46,3.62
+ULLADULLA,28/02/2016,3.9,0.4, ,25.3,17.2,100,70,2.20,22.68
+ULLADULLA,29/02/2016,1.9,0.4, ,22.6,18.4,95,73,2.84,6.89
+Totals:,,100.2,37.8, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT GININI New South Wales for July 2015,,,,,,,,,,
+Issued at 22:31 GMT on Saturday 01 August 2015,,,,,,,,,,
+© Copyright Commonwealth of Australia 2015 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT GININI,01/07/2015,1.4,0.0, ,4.7,-4.3,97,30,4.15,10.35
+MOUNT GININI,02/07/2015,1.0,0.0, ,0.8,-4.6,98,51,7.22,5.50
+MOUNT GININI,03/07/2015,1.5,0.8, ,2.9,-6.7,82,12,3.99,10.37
+MOUNT GININI,04/07/2015,1.7,0.0, ,4.1,-4.2,93,13,4.79,8.26
+MOUNT GININI,05/07/2015,0.9,0.0, ,5.9,-0.5,96,65,3.17,9.76
+MOUNT GININI,06/07/2015,1.0,0.0, ,3.2,-3.5,98,54,4.45,9.50
+MOUNT GININI,07/07/2015,0.5,0.0, ,2.4,-2.4,98,91,2.73,6.89
+MOUNT GININI,08/07/2015,0.7,0.0, ,3.5,-3.4,98,66,1.80,10.34
+MOUNT GININI,09/07/2015,0.7,0.0, ,4.1,-3.5,98,72,3.43,8.22
+MOUNT GININI,10/07/2015,0.4,9.2, ,1.0,-0.7,98,94,4.68,4.72
+MOUNT GININI,11/07/2015,0.3,11.4, ,1.4,-1.5,98,97,5.08,2.79
+MOUNT GININI,12/07/2015,0.3,19.0, ,-1.4,-4.7,98,97,3.86,5.79
+MOUNT GININI,13/07/2015,0.3,6.8, ,-0.2,-4.6,98,98,5.93,6.28
+MOUNT GININI,14/07/2015,0.4,4.8, ,-0.7,-3.7,98,97,3.88,9.24
+MOUNT GININI,15/07/2015,0.4,1.0, ,0.0,-5.8,98,97,2.42,5.49
+MOUNT GININI,16/07/2015,0.4,6.0, ,-0.2,-2.9,98,98,3.11,5.50
+MOUNT GININI,17/07/2015,0.4,2.8, ,-0.9,-4.4,98,96,6.16,10.56
+MOUNT GININI,18/07/2015,0.5,0.0, ,-0.1,-5.1,98,95,2.79,10.44
+MOUNT GININI,19/07/2015,0.6,0.0, ,2.4,-4.2,99,85,2.48,10.02
+MOUNT GININI,20/07/2015,0.7,0.0, ,3.2,-3.4,98,78,3.18,11.17
+MOUNT GININI,21/07/2015,0.9,0.0, ,2.6,-1.2,99,66,4.71,9.91
+MOUNT GININI,22/07/2015,0.3,2.0, ,1.6,0.1,99,97,5.60,3.88
+MOUNT GININI,23/07/2015,0.5,16.6, ,2.6,-0.1,98,97,2.54,6.87
+MOUNT GININI,24/07/2015,0.3,0.8, ,1.6,-0.5,98,97,6.46,3.52
+MOUNT GININI,25/07/2015,0.4,10.6, ,-0.2,-1.3,97,97,6.89,8.38
+MOUNT GININI,26/07/2015,0.3,0.6, ,-0.2,-2.4,98,97,6.32,4.36
+MOUNT GININI,27/07/2015,0.4,7.0, ,-3.2,-6.5,98,97,5.45,9.29
+MOUNT GININI,28/07/2015,0.5,0.0, ,0.0,-5.6,99,98,3.63,10.22
+MOUNT GININI,29/07/2015,1.2,0.2, ,2.2,-3.3,99,34,3.44,12.14
+MOUNT GININI,30/07/2015,0.8,0.0, ,1.6,-3.5,99,75,6.59,11.25
+MOUNT GININI,31/07/2015,0.9,0.0, ,3.9,-2.3,99,73,5.69,11.79
+Totals:,,20.6,99.6, ,,,,,, 

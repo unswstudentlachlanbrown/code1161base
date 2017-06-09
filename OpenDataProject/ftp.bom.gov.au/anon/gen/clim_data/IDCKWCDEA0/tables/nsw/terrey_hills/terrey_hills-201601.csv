@@ -1,0 +1,44 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TERREY HILLS New South Wales for January 2016,,,,,,,,,,
+Issued at 22:31 GMT on Monday 01 February 2016,,,,,,,,,,
+© Copyright Commonwealth of Australia 2016 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TERREY HILLS,01/01/2016,5.3,0.0, ,24.3,15.3,100,64,2.48,31.32
+TERREY HILLS,02/01/2016,4.2,0.0, ,23.3,15.2,100,66,1.94,23.62
+TERREY HILLS,03/01/2016, ,0.0, , ,18.0,100,74,3.13,9.17
+TERREY HILLS,04/01/2016, , , , , , , , ,6.92
+TERREY HILLS,06/01/2016, , , , , , , , ,2.82
+TERREY HILLS,07/01/2016, , , , , , , , ,17.95
+TERREY HILLS,08/01/2016, ,0.0, ,24.2, ,100,53,2.49,29.73
+TERREY HILLS,09/01/2016,3.9,0.0, ,24.6,15.7,100,69,1.30,21.60
+TERREY HILLS,10/01/2016,5.3,0.0, ,26.2,16.8,100,69,2.51,30.09
+TERREY HILLS,11/01/2016,6.2,0.0, ,32.5,18.4,100,45,2.37,28.15
+TERREY HILLS,12/01/2016,6.0,0.0, ,34.1,23.4,92,32,3.06,20.02
+TERREY HILLS,13/01/2016,5.4,0.0, ,30.5,19.5,98,70,2.35,27.35
+TERREY HILLS,14/01/2016,6.5,0.0, ,38.9,21.6,100,25,3.82,14.44
+TERREY HILLS,15/01/2016,2.4,28.2, ,19.7,12.6,100,69,3.98,11.11
+TERREY HILLS,16/01/2016,4.1,3.2, ,21.9,12.6,100,57,3.23,23.62
+TERREY HILLS,17/01/2016,4.5,0.0, ,23.5,14.4,95,56,2.50,24.69
+TERREY HILLS,18/01/2016,5.0,0.0, ,24.7,14.6,100,64,2.43,29.38
+TERREY HILLS,19/01/2016,6.2,0.0, ,30.4,17.0,99,47,2.45,30.92
+TERREY HILLS,20/01/2016,7.9,0.0, ,36.8,22.0,85,15,2.64,29.64
+TERREY HILLS,21/01/2016,5.8,0.0, ,35.8,21.6,100,33,2.27,21.34
+TERREY HILLS,22/01/2016,1.6,21.6, ,28.1,21.2,100,80,1.72,5.45
+TERREY HILLS,23/01/2016,4.0,15.2, ,26.1,21.0,100,71,2.74,20.33
+TERREY HILLS,24/01/2016,2.3,0.0, ,23.4,18.9,97,79,1.93,10.45
+TERREY HILLS,25/01/2016,1.8,0.0, ,23.7,19.4,100,80,1.80,7.23
+TERREY HILLS,26/01/2016,4.7,4.0, ,25.7,19.0,100,69,2.57,25.81
+TERREY HILLS,27/01/2016,1.9,1.0, ,23.0,19.2,98,80,2.51,7.49
+TERREY HILLS,28/01/2016,4.3,0.4, ,27.9,19.8,100,70,2.10,21.77
+TERREY HILLS,29/01/2016,3.3,0.0, ,27.7,20.0,100,75,2.24,15.60
+TERREY HILLS,30/01/2016,3.6,7.6, ,26.5,17.9,100,81,2.75,19.31
+TERREY HILLS,31/01/2016,6.2,7.2, ,28.8,18.8,100,28,2.59,29.62
+Totals:,,112.4,88.4, ,,,,,, 

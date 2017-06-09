@@ -1,0 +1,45 @@
+'IDCKWCDE51,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COBAR AIRPORT New South Wales for January 2009,,,,,,,,,,
+Issued at 04:34 GMT on Thursday 22 July 2010,,,,,,,,,,
+© Copyright Commonwealth of Australia 2009 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COBAR AIRPORT,01/01/2009,9.2,0.0, ,35.0,14.5,45,12,3.91,31.08
+COBAR AIRPORT,02/01/2009,9.8,0.0, ,28.7,18.3,35,9,5.32,34.51
+COBAR AIRPORT,03/01/2009,8.9,0.0, ,34.6,14.2,43,7,3.04,34.35
+COBAR AIRPORT,04/01/2009,10.5,0.0, ,37.4,17.4,46,14,4.99,30.30
+COBAR AIRPORT,05/01/2009,8.0,0.0, ,38.6,20.1,59,16,2.30,30.31
+COBAR AIRPORT,06/01/2009,9.0,0.0, ,40.5,22.6,30,13,2.92,28.26
+COBAR AIRPORT,07/01/2009,7.4,0.0, ,35.9,28.9,48,20,4.56,10.57
+COBAR AIRPORT,08/01/2009,10.9,0.0, ,33.7,23.6,44,8,5.66,32.53
+COBAR AIRPORT,09/01/2009,9.6,0.0, ,34.5,14.4,40,7,3.84,34.20
+COBAR AIRPORT,10/01/2009,10.0,0.0, ,35.9,19.3,59,17,5.42,29.07
+COBAR AIRPORT,11/01/2009,9.4,0.0, ,35.7,20.2,71,12,4.14,32.58
+COBAR AIRPORT,12/01/2009,9.5,0.0, ,39.1,18.8,53,8,3.04,33.74
+COBAR AIRPORT,13/01/2009,10.1,0.0, ,39.2,21.8,46,13,3.86,32.22
+COBAR AIRPORT,14/01/2009,10.6,0.0, ,40.0,25.4,38,15,4.13,32.46
+COBAR AIRPORT,15/01/2009,11.2,1.0, ,40.4,27.1,35,14,5.44,24.23
+COBAR AIRPORT,16/01/2009,11.9,0.0, ,34.2,21.5,29,8,6.22,34.24
+COBAR AIRPORT,17/01/2009,9.6,0.0, ,31.4,17.8,32,7,4.39,34.09
+COBAR AIRPORT,18/01/2009,8.8,0.0, ,33.9,17.9,54,18,3.84,32.37
+COBAR AIRPORT,19/01/2009,9.2,0.0, ,37.3,21.8,50,22,4.78,24.39
+COBAR AIRPORT,20/01/2009,11.4,0.4, ,39.6,24.2,59,14,6.07,27.74
+COBAR AIRPORT,21/01/2009,7.3,0.0, ,34.1,26.4,70,34,5.13,18.88
+COBAR AIRPORT,22/01/2009, ,0.0, , ,22.4,81,52,6.20,17.37
+COBAR AIRPORT,23/01/2009, , , , , , , , ,29.03
+COBAR AIRPORT,24/01/2009, , , , , , , , ,32.44
+COBAR AIRPORT,25/01/2009, , , , , , , , ,33.39
+COBAR AIRPORT,26/01/2009, , , , , , , , ,32.41
+COBAR AIRPORT,27/01/2009, , , , , , , , ,31.36
+COBAR AIRPORT,28/01/2009, , , , , , , , ,30.68
+COBAR AIRPORT,29/01/2009, , , , , , , , ,32.34
+COBAR AIRPORT,30/01/2009, , , ,38.9, , , , ,31.64
+COBAR AIRPORT,31/01/2009,9.4,0.0, ,38.7,22.9,47,16,3.48,31.52
+Totals:,,211.7,1.4, ,,,,,, 

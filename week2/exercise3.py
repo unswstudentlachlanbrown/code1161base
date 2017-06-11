@@ -54,6 +54,16 @@ def star_map():
     """
     return map(lambda x: ["!", "*"][is_odd(x)], range(10))
 
+#     def star_or_bang(a_number):
+#         if is_odd(a_number) is True:
+#             return "*"
+#         else:
+#             return "!"
+        
+#         result = map(star_or_bang, range(10))
+#         print (result)
+#         return result
+
 
 def loops_1c(number_of_items, symbol):
     """Respond to variables.

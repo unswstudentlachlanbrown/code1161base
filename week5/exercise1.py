@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""Refactoring.
+"""Refactoring one.
 
 This excercise is very similar to week 2, exercise 2. It contains a complete
 and working example, but it's very poorly written.

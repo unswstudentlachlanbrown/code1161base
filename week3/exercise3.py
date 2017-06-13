@@ -28,7 +28,36 @@ def advancedGuessingGame():
     Remember to think modular. Try to keep your functions small and single
     purpose if you can!
     """
-    pass
+    print("\nwelcome to the guessing game!")
+
+    lowerbound = not_number_rejector("Enter a lower bound: ")
+    while True:
+        upperbound = not_number_rejector("Enter a upper bound: ")
+        if upperbound <= lowerbound:
+            print ("Type in a number over {}".format(upperbound))
+        elif upperbound == lowerbound + 1:
+            print ("Type in a number over {}".format(upperbound))
+        elif lowerbound >= upperbound:
+            print("{} is incorrect, please do one bellow upperbound"
+                  .format(lowerbound))
+        else:
+            print("go ahead")
+            break
+
+    actual_number = random.randint(lowerbound, upperbound)
+
+    guessed = False
+    while not guessed:
+        guess_number = super_asker(lowerbound, upperbound)
+        print("You guessed {}".format(guess_number),)
+        if guess_number == actual_number:
+            print("{}, You guessed correctly".format(actual_number))
+            guessed = True
+        elif guess_number < actual_number:
+            print("incorrect, try larger number")
+        else:
+            print("incorrect, try smaller number")
+    return "You got it!"
 
 
 if __name__ == "__main__":

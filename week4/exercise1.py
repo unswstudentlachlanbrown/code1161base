@@ -16,7 +16,6 @@ if LOCAL != CWD:
 
 
 def success_is_relative():
-
     """Read from a file.
 
     Read the success message from week 1, but from here, using a relative path.
@@ -28,15 +27,18 @@ def success_is_relative():
     """
     # this depends on excecution context. Take a look at your CWD and remember
     # that it changes.
-    # print(path, CWD)
-    file_path = "../week1/pySuccessMessage.json"
-    yasssuccess = open(file_path, mode)
-    toread = yasssuccess.read()
-    # convert from json to python dictionary
-    to_understand = json.load()
-    get_dict = toread["message"]
-    return get_dict
-    pass
+    # print(path, CWD)pyrimad1 = []
+    file = str(open("./week1/pySuccessMessage.json", 'r').read()).strip('/n')
+    message = ''
+    index = 0
+    while True:
+        if file[index] == '}':
+            message += file[index]
+            break
+        else:
+            message += file[index]
+        index += 1
+    return message
 
 
 def get_some_details():
@@ -56,18 +58,22 @@ def get_some_details():
          dictionaries.
     """
     json_data = open(LOCAL + "/lazyduck.json").read()
-    my_dict["key"][2]["theyhey"][]
+    data = json.loads(json_data)["results"][0]
+    postcode_sum = int(data["location"]["postcode"]) + int(data["id"]["value"])
+
+    # my_dict["key"][2]["theyhey"][] Completely forgot this, it is a mystery
     data = json.loads(json_data)
-    return {"lastName":       None,
-            "password":       None,
-            "postcodePlusID": None
+    return {"lastName":       data["name"]["last"],
+            "password":       data["login"]["password"],
+            "postcodePlusID": postcode_sum
             }
 
-    return (data{"results"}[0]["name"] {title})
+    # return (data{"results"}[0]["name"] {title})
 
-lastname =
-password =
-number =
+# lastname =
+# password =
+# number =
+
 
 def wordy_pyramid():
     """Make a pyramid out of real words.
@@ -101,12 +107,18 @@ def wordy_pyramid():
     ]
     TIP: to add an argument to a URL, use: ?argName=argVal e.g. ?len=
     """
+    pyrimad1 = []
+    pyrimad2 = []
+    url = "http://www.setgetgo.com/randomword/"
+    for length in range(3, 21):
+        if length % 2 == 1:
+            pyrimad1.append(requests.get(url+str(length)).text)
+        else:
+            pyrimad2 = [requests.get(url+str(length)).text] + pyrimad2
 
-URL = "http://www.setgetgo.com/randomword/"
+        return pyrimad1 + pyrimad2
 
-request(website then number word, loop)
-
-    pass
+# request(website then number word, loop)
 
 
 def wunderground():
@@ -130,10 +142,12 @@ def wunderground():
     the_json = json.loads(r.text)
     obs = the_json['current_observation']
 
-    return {"state":           None,
-            "latitude":        None,
-            "longitude":       None,
-            "local_tz_offset": None}
+    weather_dict = {"state":           obs["display_location"]["state"],
+                    "latitude":        obs["display_location"]["latitude"],
+                    "longitude":       obs["display_location"]["longitude"],
+                    "local_tz_offset": obs["local_tz_offset"]}
+    print(str(weather_dict))
+    return weather_dict
 
 
 def diarist():
@@ -149,7 +163,22 @@ def diarist():
     TIP: remember to commit 'lasers.pew' and push it to your repo, otherwise
          the test will have nothing to look at.
     """
-    pass
+    gcode = str(open("./week4/Trispokedovetiles(laser).gcode", 'r').read())
+    char_count = 0
+    on_off_counter = 0
+    while char_count < len(gcode):
+        if gcode[char_count:char_count+6] == "M10 P1":
+            on_off_counter += 1
+        char_count += 1
+        # print(str(char_count), str(on_off_counter))
+        # print(str(gcode[char_count:char_count+6]))
+    try:
+        os.remove("./week4/laser.pew")
+        print('file removed')
+    except Exception:
+        print('request failed, try checking what you did')
+    laser_flie = open(".week4/laser.pew", 'w+')
+    laser_flie.write(str(on_off_counter))
 
 
 if __name__ == "__main__":

@@ -19,8 +19,7 @@ def greet(name="Towering Timmy"):
     E.g. if given as "Towering Timmy" it should return "Hello Towering Timmy"
     """
 
-    my_string = hello()
-    return str(greet)
+    return "Hello " + name
 
 
 def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
@@ -30,7 +29,14 @@ def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
     TIP: the test will use a different input_list, so don't just return 5
     """
 
-    input_list.count(3)
+    # for my_number in input_list:
+        # if my_number == 3
+        # acount = add.count + 1
+#
+    # return acount
+#
+    # my_count = input_list.count(3)
+    # return my_count
 
     """len(set(input_list))"""
 
@@ -50,16 +56,17 @@ def fizz_buzz():
     if it is. E.g. [1, 2, "Fizz", 4, "Buzz", 6, 7, ...]
     """
 
-    count = 0
+    fizzBuzzList = []
+    count = 1
     while count < 101:
         if count % 5 == 0 and count % 3 == 0:
-            print ("FizzBuzz")
+            fizzBuzzList.append("FizzBuzz")
         elif count % 5 == 0:
-            print ("Fizz")
+            fizzBuzzList.append("Buzz")
         elif count % 3 == 0:
-            print ("Buzz")
+            fizzBuzzList.append("Fizz")
         else:
-            print (count)
+            fizzBuzzList.append(count)
 
         count = count + 1
 
@@ -73,10 +80,11 @@ def put_behind_bars(input_string="very naughty boy"):
     e.g. "very naughty boy" should return "|v|e|r|y| |n|a|u|g|h|t|y| |b|o|y|"
     TIP: make sure that you have a pipe on both ends of the string.
     """
-    my_first_list = [v, e, r, y, _, n, a, u, g, h, t, y,  _, b, o, y]
-    my_second_list = [I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I]
 
-    val for pair in list(my_first_list, my_second_list) for val in pair
+    # bar_list = [|]
+    # val for pair in list(input_string, bar_list) for val in pair
+    # return input_string
+
 
 def pet_filter(letter="a"):
     """Return a list of animals with `letter` in their name."""
@@ -88,8 +96,12 @@ def pet_filter(letter="a"):
             "bali cattle", "gayal", "turkey", "goldfish", "rabbit", "koi",
             "canary", "society finch", "fancy mouse", "siamese fighting fish",
             "fancy rat and lab rat", "mink", "red fox", "hedgehog", "guppy"]
-    pass
 
+    for my_letter in pets:
+        if my_letter == a:
+            a_letter = add.value to pets
+
+        return a_letter
 
 def best_letter_for_pets():
     """Return the letter that is present at least once in the most pet names.

@@ -57,7 +57,7 @@ def advancedGuessingGame():
             print("incorrect, try larger number")
         else:
             print("incorrect, try smaller number")
-    return "You got it!"
+    return "You got it champ!"
 
 
 if __name__ == "__main__":
